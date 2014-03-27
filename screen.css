@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin: 20px 0;
+}
+
+p:last-of-type {
+  margin-bottom: 0px;
+}
+
+ul.bullet {
+  list-style-type: disc;
+}
+
+ul.project {
+  margin: 0 0 1em 0;
+}
+
+p {
+  margin: 0.5em 0
+}
