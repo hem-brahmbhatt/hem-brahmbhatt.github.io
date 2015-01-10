@@ -124,7 +124,7 @@ body .touch-device .visible-touch, body .visible {
     display: none;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 500px) {
   /* line 1, ../sass/_toolkit.scss */
   body .sticky-mobile {
     position: -webkit-sticky;
@@ -497,7 +497,7 @@ body .touch-device .visible-touch, body .visible {
   width: 5.35%;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 500px) {
   /* line 1, ../sass/_toolkit.scss */
   body {
     width: 100%;
@@ -1225,7 +1225,7 @@ button.btn {
   display: block;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 500px) {
   /* line 1, ../sass/_toolkit.scss */
   .tabpanel {
     width: 100%;
@@ -1233,7 +1233,7 @@ button.btn {
     -webkit-overflow-scrolling: touch;
   }
 }
-@media (min-width: 767px) {
+@media (min-width: 500px) {
   /* line 1, ../sass/_toolkit.scss */
   .tabcontents {
     width: 1140px;
@@ -1396,7 +1396,7 @@ button.btn {
   *padding-left: 20px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 500px) {
   /* line 1, ../sass/_toolkit.scss */
   .sky-form .row {
     margin: 0 0 16px 0;
@@ -2167,7 +2167,7 @@ button.btn {
   max-width: 180px;
 }
 
-@media all and (max-width: 767px) {
+@media all and (max-width: 500px) {
   /* line 1, ../sass/_toolkit.scss */
   .skycom-carousel.hero-3-1 .poster {
     min-height: 110px;
@@ -2308,7 +2308,7 @@ button.btn {
   padding: 8px;
 }
 
-@media all and (max-width: 767px) {
+@media all and (max-width: 500px) {
   /* line 1, ../sass/_toolkit.scss */
   .share-popup .popover {
     position: relative;
@@ -2361,7 +2361,7 @@ button.btn {
   z-index: 1;
 }
 
-@media all and (max-width: 767px) {
+@media all and (max-width: 500px) {
   /* line 1, ../sass/_toolkit.scss */
   .share-popup.active .popover {
     -webkit-box-shadow: -2px -1px 3px rgba(0, 0, 0, 0.15);
@@ -2409,7 +2409,7 @@ button.btn {
   display: inline;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 500px) {
   /* line 1, ../sass/_toolkit.scss */
   .share-bar {
     margin: 0;
