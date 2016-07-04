@@ -1,0 +1,9 @@
+
+open-source:
+  - name: skyglobal.github.io/web-toolkit
+    description: Front end framework by Sky
+  - name: component-helper
+    description: CLI to create reusable modular web components.
+  - name: ember-cli
+    description: CLI to create Ember.js websites. Contributed to addons and documentation.
+

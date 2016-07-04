@@ -1,0 +1,67 @@
+projects:
+
+  - name: trackmyorder.sky.com
+    date: "July '14 - Ongoing"
+    tech: Javascript <span class=inactive>(ES6, Ember.js, Node.js)</span>, Mocha <span class=inactive>(chai, sinon, zombie)</span>, Ruby <span class=inactive>(Middleware, Gem, Sinatra, RSpec, Cucumber)
+    description: Site for customers to track their order, cancellations, upgrades and appointments.
+    detail:
+      - Powered by Ember, developed using ember-cli
+      - Created landing page for SEO.
+      - Created modern services in Ruby for front end apps, to shield away MQ XML services.
+
+  - name: Sky Service mobile app
+    date: "June '14 - July '14"
+    tech: Java <span class=inactive>(Android)</span>, Ruby <span class=inactive>(calabash)</span>, Gradle, Bash scripting, Jenkins
+    description: Native Android and iOS app allowing customers to manage their Sky products and services, as well as help and support.
+    detail:
+      - Working on the Android version of the app, building search capabilities.
+
+  - name: Sherlock
+    date: "May '14 - June '14"
+    tech: node.js <span class=inactive>(express, CoffeeScript, mocha, sugar.js, phantom.js)</span>, Java <span class=inactive>(JSP, Spring MVC)</span>, MongoDB, HTML <span class=inactive>(toffee)</span>, Vim, Tmux
+    detail:
+      - Created Sherlock, an analytics suite to track customer behaviour over time across the site and call centre.
+      - Making pages responsive, and using A/B testing with Sherlock to monitor success of releases.
+      - Correlated site data with call centre data to track customer journies when they have made an order to measure call deflection in real time.
+
+  - name: claim.sky.com
+    date: "Jan '14 - Mar '14"
+    tech: Ruby <span class=inactive>(Rails, Faraday)</span>, RSpec <span class=inactive>(Capybara, web-mock)</span>, HTML <span class=inactive>(erb)</span>, Sass, Vim, Tmux
+    practices: Lean UX, agile, pair programming
+    description: A page allowing customers to claim rewards for subscribing.
+    detail:
+      - Rapid prototyping and coding with designers and stakeholders to bring ideas to life
+      - Worked closely with API and UX teams using remote coding and collaboration tools
+
+  - name: broadbandshield.sky.com
+    date: "June '13 - May '14"
+    tech: Ruby <span class=inactive>(Sinatra, rest-client)</span>, Javascript <span class=inactive>(CoffeeScript, Backbone.js, jQuery, underscore)</span> Cucumber, HTML, Sass, MongoDB
+    practices: Agile, pair programming, analytics, lean
+    description: Broadband Shield is a solution for parents concerned about the content their family is viewing online.
+    detail:
+      - Created prototypes and analytics to get quick feedback on new features
+      - Contributed front-end components to the live style guide
+
+  - name: myaccount.sky.com/bill/new
+    date: "April '13 - November '13"
+    tech: Java <span class=inactive>(Spring MVC, Jersey, Xmlbeans)</span>, Cucumber, HTML, Sass, TeamCity, IntelliJ
+    practices: Mobile first, analytics, agile, pair Programming
+    description: This project was to redesign the online bill to make the bill more accessible and easier to understand by displaying the most important information, and to use analytics to target problems to address.
+    detail:
+      - Used latest design techniques such as responsive design and mobile first to keep focus on the main features
+      - Collaborated with UX and designers and wrote code with them to test out designs on the live site
+
+  - name: MCS
+    date: "Feb '12 - April '13"
+    tech: Java <span class=inactive>(Spring, Jersey, Xmlbeans, Jackson, HTTP and JMS)</span>, Linux, Cassandra, Oracle
+    description: Created dynamic web services and a RESTful API for internal clients for customer and product data, accessed through databases and legacy services.
+    detail:
+      - Pair programming with senior developers, coding through TDD, using Mocking and design patterns.
+      - Worked on transitioning build practices to newer technologies, to improve build times and testing durations through parallelisation.
+
+  - name: BSkyB Software Engineering Academy
+    date: "Aug '11 - Feb '12"
+    tech: Objective C, Javascript <span class="inactive">(Nodejs, Backbone, Flot, Rapha&euml;l)</span>, Redis
+    detail:
+      - iPhone and iPad application for MyAccounts team. Allowed users to view their account information and book appointments on their mobile. Introduced Agile and automated testing/building to native iOS developers at Sky.
+      - Browser based dashboard for the Sky iD team. Displayed errors in their services in graphs and tables with server information. Also displayed journey maps for services in tree diagrams, showing which back-end services were down or performing slowly.
