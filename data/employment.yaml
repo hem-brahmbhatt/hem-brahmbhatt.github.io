@@ -9,7 +9,7 @@ projects:
       - Code base created static assets on AWS S3 for pages to consume
       - Project contained dynamic server for testing as well as end-to-end testing of static assets
 
-  - name: Preston
+  - name: preston.hemtech.io
     date: "Feb '16 - April '16"
     tech: Sass (animations, grid, iconography), Javascript <span class=inactive>(ES6, Koa.js, Angular.js, build and CLI)</span>, Heroku, Travis CI, open source
     description: Style guide for Outnet.com
@@ -18,7 +18,7 @@ projects:
       - Included grid, animations, icons, typography and more
       - Heroku and Travis CI pipeline allowed continuous delivery within 1:20 minutes
 
-  - name: Storeton
+  - name: www.outnet.com
     date: "June '15 - Feb '16"
     tech: Javascript <span class=inactive>(ES6, vanilla, single-page app)</span>, Sass, Java, MySQL
     description: Listing page application for Outnet.com
