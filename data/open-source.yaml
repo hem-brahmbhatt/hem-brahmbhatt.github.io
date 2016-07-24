@@ -1,9 +1,8 @@
 
 open-source:
+  - name: Preston
+    description: Style guide for Outnet.com
   - name: skyglobal.github.io/web-toolkit
     description: Front end framework by Sky
-  - name: component-helper
-    description: CLI to create reusable modular web components.
-  - name: ember-cli
-    description: CLI to create Ember.js websites. Contributed to addons and documentation.
-
+  - name: node-convict
+    description: Configuration management for node.js projects

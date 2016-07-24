@@ -1,37 +1,39 @@
 projects:
 
-  - name: trackmyorder.sky.com
-    date: "July '14 - Ongoing"
-    tech: Javascript <span class=inactive>(ES6, Ember.js, Node.js)</span>, Mocha <span class=inactive>(chai, sinon, zombie)</span>, Ruby <span class=inactive>(Middleware, Gem, Sinatra, RSpec, Cucumber)
-    description: Site for customers to track their order, cancellations, upgrades and appointments.
+  - name: Hafton
+    date: "April '16 - July '16"
+    tech: Javascript <span class=inactive>(build and CLI)</span>, AWS S3, Jenkins
+    description: Replatformed furniture for Outnet.com (header, footer, common libraries and features across the site)
     detail:
-      - Powered by Ember, developed using ember-cli
-      - Created landing page for SEO.
-      - Created modern services in Ruby for front end apps, to shield away MQ XML services.
+      - Resulted in a smaller code base, build and deployment of changes were live within 3 minutes
+      - Code base created static assets on AWS S3 for pages to consume
+      - Project contained dynamic server for testing as well as end-to-end testing of static assets
 
-  - name: Sky Service mobile app
-    date: "June '14 - July '14"
-    tech: Java <span class=inactive>(Android)</span>, Ruby <span class=inactive>(calabash)</span>, Gradle, Bash scripting, Jenkins
-    description: Native Android and iOS app allowing customers to manage their Sky products and services, as well as help and support.
+  - name: Preston
+    date: "Feb '16 - April '16"
+    tech: Sass (animations, grid, iconography), Javascript <span class=inactive>(ES6, Koa.js, Angular.js, build and CLI)</span>, Heroku, Travis CI, open source
+    description: Style guide for Outnet.com
     detail:
-      - Working on the Android version of the app, building search capabilities.
+      - Preview and documentation for Outnet.com style guide, as well as managing distribution methods (bower, npm, git)
+      - Included grid, animations, icons, typography and more
+      - Heroku and Travis CI pipeline allowed continuous delivery within 1:20 minutes
 
-  - name: Sherlock
-    date: "May '14 - June '14"
-    tech: node.js <span class=inactive>(express, CoffeeScript, mocha, sugar.js, phantom.js)</span>, Java <span class=inactive>(JSP, Spring MVC)</span>, MongoDB, HTML <span class=inactive>(toffee)</span>, Vim, Tmux
+  - name: Storeton
+    date: "June '15 - Feb '16"
+    tech: Javascript <span class=inactive>(ES6, vanilla, single-page app)</span>, Sass, Java, MySQL
+    description: Listing page application for Outnet.com
     detail:
-      - Created Sherlock, an analytics suite to track customer behaviour over time across the site and call centre.
-      - Making pages responsive, and using A/B testing with Sherlock to monitor success of releases.
-      - Correlated site data with call centre data to track customer journies when they have made an order to measure call deflection in real time.
+      - Single-page app, heavily optimised for SEO (crawlable, performant, responsive)
+      - Experience included dynamic filters, lazy-loading, infinite scroll, detail view, managed content blocks
+      - Led the front-end development for the page, including coaching, code reviewing, technical direction and planning
 
-  - name: claim.sky.com
-    date: "Jan '14 - Mar '14"
-    tech: Ruby <span class=inactive>(Rails, Faraday)</span>, RSpec <span class=inactive>(Capybara, web-mock)</span>, HTML <span class=inactive>(erb)</span>, Sass, Vim, Tmux
-    practices: Lean UX, agile, pair programming
-    description: A page allowing customers to claim rewards for subscribing.
+  - name: Brixton
+    date: "Feb '15 - June '15"
+    tech: Javascript <span class=inactive>(ES6, Node.js, Angular.js, Koa.js)</span>, Jasmine <span class=inactive>(chai, sinon)</span>, Git
+    description: CMS system for content changes on the Outnet.com homepage and campaign pages
     detail:
-      - Rapid prototyping and coding with designers and stakeholders to bring ideas to life
-      - Worked closely with API and UX teams using remote coding and collaboration tools
+      - Single-page CMS system for web producers
+      - Features included live preview, publishing, authentication, drag-and-drop reordering.
 
   - name: broadbandshield.sky.com
     date: "June '13 - May '14"
@@ -42,7 +44,7 @@ projects:
       - Created prototypes and analytics to get quick feedback on new features
       - Contributed front-end components to the live style guide
 
-  - name: myaccount.sky.com/bill/new
+  - name: myaccount.sky.com/bill
     date: "April '13 - November '13"
     tech: Java <span class=inactive>(Spring MVC, Jersey, Xmlbeans)</span>, Cucumber, HTML, Sass, TeamCity, IntelliJ
     practices: Mobile first, analytics, agile, pair Programming
