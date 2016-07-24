@@ -48,7 +48,7 @@ projects:
     date: "April '13 - November '13"
     tech: Java <span class=inactive>(Spring MVC, Jersey, Xmlbeans)</span>, Cucumber, HTML, Sass, TeamCity, IntelliJ
     practices: Mobile first, analytics, agile, pair Programming
-    description: This project was to redesign the online bill to make the bill more accessible and easier to understand by displaying the most important information, and to use analytics to target problems to address.
+    description: Redesign the online bill to make the bill more accessible and easier to understand by displaying the most important information, and to use analytics to target problems to address.
     detail:
       - Used latest design techniques such as responsive design and mobile first to keep focus on the main features
       - Collaborated with UX and designers and wrote code with them to test out designs on the live site
@@ -59,7 +59,7 @@ projects:
     description: Created dynamic web services and a RESTful API for internal clients for customer and product data, accessed through databases and legacy services.
     detail:
       - Pair programming with senior developers, coding through TDD, using Mocking and design patterns.
-      - Worked on transitioning build practices to newer technologies, to improve build times and testing durations through parallelisation.
+      - Transitioning build practices to newer technologies, to improve build times and testing durations through parallelisation.
 
   - name: BSkyB Software Engineering Academy
     date: "Aug '11 - Feb '12"
