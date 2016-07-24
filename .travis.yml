@@ -1,0 +1,9 @@
+language: node_js
+script: npm run build
+deploy:
+  provider: releases
+  api_key:
+    secure: lIPAh1FhUQv7uvmxtaStJIN+Ho7qwrsuMgfDxLfmxXeA6vAa4O2GqO3Kb2CVsixt0wFiMwMtsMVpuMMw4hcDsgUzVl0LdH6C1mBxjI9GH8WRBPPxOxmdOsmjVptqdmvomZVyBiXUxUgqoCE3qjqES5Chqi50SmrpmlEQrBZV+1w=
+  file: index.html
+  on:
+    repo: damnhipster/damnhipster.github.io
