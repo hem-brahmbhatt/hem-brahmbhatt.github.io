@@ -61,10 +61,3 @@ projects:
     detail:
       - Pair programming with senior developers, coding through TDD, using Mocking and design patterns.
       - Transitioning build practices to newer technologies, to improve build times and testing durations through parallelisation.
-
-  - name: BSkyB Software Engineering Academy
-    date: "Aug '11 - Feb '12"
-    tech: Objective C, Javascript <span class="inactive">(Nodejs, Backbone, Flot, Rapha&euml;l)</span>, Redis
-    detail:
-      - iPhone and iPad application for MyAccounts team. Allowed users to view their account information and book appointments on their mobile. Introduced Agile and automated testing/building to native iOS developers at Sky.
-      - Browser based dashboard for the Sky iD team. Displayed errors in their services in graphs and tables with server information. Also displayed journey maps for services in tree diagrams, showing which back-end services were down or performing slowly.

@@ -2,6 +2,15 @@
     <div class="skycom-12 alpha">
       <h2>{{title}}</h2>
       {{#each summary}}
-        <p>{{this}}</p>
+        <p>{{this.detail}}</p>
+        {{#if this.list}}
+        <ul class="bullet  skycom-12">
+          {{#each this.list}}
+            <li>
+              <strong>{{this.heading}}</strong>: {{this.contents}}
+            </li>
+          {{/each}}
+        </ul>
+        {{/if}}
       {{/each}}
     </div>

@@ -1,14 +1,18 @@
 summary:
-  - Full stack software developer with <strong>5 years</strong> experience working in industries including <strong>Fashion</strong>, <strong>Media</strong> and <strong>Retail</strong>, creating and maintaining high quality, performant customer facing applications.
-  - |
-    Experience in technologies including
-    <ul class="bullet  skycom-12">
-      <li><strong>Client-side</strong>: JavaScript (ES6, vanilla, React, Angular, Ember, jQuery, progressive web apps), CSS (sass, style guides, animations, cross-browser), high performance techniques, single-page apps</li>
-      <li><strong>Server-side</strong>: Node.js, Ruby, Java, http, MQ, caching</li>
-      <li><strong>Database</strong>: MySQL, Mongo, Git</li>
-      <li><strong>Build and delivery</strong>: Build scripts (bash, Gulp, etc.), CI (Jenkins, TeamCity, Travis, Circle), distributables (npm, RPM, static site delivery), expert on Git</li>
-      <li><strong>Networking and Hosting</strong>: AWS (S3, EC2, Route 53, Lambda), Heroku, Apache http, Tomcat, Nginx, load balancing, CDN</li>
-      <li><strong>Dev Ops</strong>: Logging and monitoring solutions (splunk, App Dynamics, New Relic), familiar with puppet and docker, bash, remote access</li>
-    </ul>
-  - Able to effectively transition into new and existing teams. Experienced in identifying and solving constraints by applying methodologies including lean principles, XP, Agile, MVP and TDD and BDD.
-  - Excellent pair programmer, and experienced in multiple disciplines (UX & design, testers, clients, delivery and management). Able to apply techniques such as <strong>TDD</strong>, object oriented, polyglot, effective simplifying and planning, coaching and upskilling when needed, good speaker and presenter.
+  - detail: Lead software developer with <strong>5 years</strong> experience working in industries including <strong>Fashion</strong>, <strong>Media</strong> and <strong>Retail</strong>, creating and maintaining high quality, performant customer facing applications.
+  - detail: Experience in technologies across the stack including
+    list:
+      - heading: Client-side
+        contents: JavaScript <span class="inactive">(ES6, vanilla, React, Angular, Ember, jQuery, progressive web apps)</span>, CSS <span class="inactive">(sass, style guides, animations, cross-browser)</span>, high performance techniques, single-page apps
+      - heading: Server-side
+        contents: Node.js, Ruby, Java, http, MQ, caching
+      - heading: Database
+        contents: MySQL, Mongo, Git
+      - heading: Build and delivery
+        contents: Build scripts <span class="inactive">(bash, Gulp, etc.)</span>, CI <span class="inactive">(Jenkins, TeamCity, Travis, Circle)</span>, distributables <span class="inactive">(npm, RPM, static site delivery)</span>, expert on Git
+      - heading: Networking and Hosting
+        contents: AWS <span class="inactive">(S3, EC2, Route 53, Lambda)</span>, Heroku, Apache http, Tomcat, Nginx, load balancing, CDN
+      - heading: Dev Ops
+        contents: Logging and monitoring solutions <span class="inactive">(splunk, App Dynamics, New Relic)</span>, familiar with puppet and docker, bash, remote access
+  - detail: Experienced coach and team lead, able to upskill teams on cutting-edge technology and practices, good speaker and presenter. Excellent pair programmer, and experienced in multiple disciplines (UX & design, testers, clients, delivery and management). Able to apply techniques such as <strong>TDD</strong>, object oriented, polyglot, effective simplifying and planning.
+  - detail: Able to effectively transition into new and existing teams. Experienced in identifying and solving constraints by applying methodologies including lean principles, XP, Agile, MVP and TDD and BDD.
