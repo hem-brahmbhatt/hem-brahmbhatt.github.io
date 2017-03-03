@@ -4,21 +4,36 @@ const gulp = require('gulp'),
       yaml = require('js-yaml'),
       fs   = require('fs');
 
-const developerData = Object.assign({}, ...[
-    './data/developer/data.yaml',
-    './data/developer/employment.yaml',
-    './data/developer/open-source.yaml',
-    './data/developer/personal-details.yaml',
-    './data/developer/academics.yaml',
-    './data/developer/summary.yaml'
-  ].map((file) => yaml.safeLoad(fs.readFileSync(file, 'utf8')))
-);
+const dataExt = '.yaml';
+const dataDir = './data';
 
-const managerData = {};
+const data = {
+  developer: Object.assign({}, ...[
+      'data',
+      'employment',
+      'open-source',
+      'personal-details',
+      'academics',
+      'summary'
+    ].map((file) => {
+      const fileName = `${dataDir}/developer/${file}${dataExt}`;
+      return yaml.safeLoad(fs.readFileSync(fileName, 'utf8'));
+    })
+  ),
+  manager: Object.assign({}, ...[
+      'data',
+      'personal-details',
+      'academics',
+    ].map((file) => {
+      const fileName = `${dataDir}/manager/${file}${dataExt}`;
+      return yaml.safeLoad(fs.readFileSync(fileName, 'utf8'));
+    })
+  ),
+};
 
 gulp.task('developer', () => {
   gulp.src('templates/index.hbs')
-    .pipe(handlebars(developerData, {
+    .pipe(handlebars(data.developer, {
       helpers: require('./templates/helpers.js'),
       batch: ['./templates'],
       compile: { noEscape: true }
@@ -31,7 +46,7 @@ gulp.task('developer', () => {
 
 gulp.task('manager', () => {
   gulp.src('templates/index.hbs')
-    .pipe(handlebars(managerData, {
+    .pipe(handlebars(data.manager, {
       helpers: require('./templates/helpers.js'),
       batch: ['./templates'],
       compile: { noEscape: true }
