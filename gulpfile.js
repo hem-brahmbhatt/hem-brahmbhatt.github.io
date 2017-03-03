@@ -14,6 +14,8 @@ const developerData = Object.assign({}, ...[
   ].map((file) => yaml.safeLoad(fs.readFileSync(file, 'utf8')))
 );
 
+const managerData = {};
+
 gulp.task('developer', () => {
   gulp.src('templates/index.hbs')
     .pipe(handlebars(developerData, {
@@ -38,4 +40,4 @@ gulp.task('manager', () => {
     .pipe(gulp.dest('./'))
 });
 
-gulp.task('default', ['developer']);
+gulp.task('default', ['developer', 'manager']);
