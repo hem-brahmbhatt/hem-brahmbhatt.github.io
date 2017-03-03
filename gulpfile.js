@@ -5,12 +5,12 @@ const gulp = require('gulp'),
       fs   = require('fs');
 
 const developerData = Object.assign({}, ...[
-    './data/data.yaml',
-    './data/employment.yaml',
-    './data/open-source.yaml',
-    './data/personal-details.yaml',
-    './data/academics.yaml',
-    './data/summary.yaml'
+    './data/developer/data.yaml',
+    './data/developer/employment.yaml',
+    './data/developer/open-source.yaml',
+    './data/developer/personal-details.yaml',
+    './data/developer/academics.yaml',
+    './data/developer/summary.yaml'
   ].map((file) => yaml.safeLoad(fs.readFileSync(file, 'utf8')))
 );
 
