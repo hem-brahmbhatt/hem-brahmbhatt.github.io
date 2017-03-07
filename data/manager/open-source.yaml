@@ -4,7 +4,3 @@ open-source:
     description: Talk targetting developers and managers. Presented at meetups and companies.
   - name: Preston
     description: Style guide for Outnet.com
-  - name: skyglobal.github.io/web-toolkit
-    description: Front end framework by Sky
-  - name: node-convict
-    description: Configuration management for node.js projects by Mozilla.

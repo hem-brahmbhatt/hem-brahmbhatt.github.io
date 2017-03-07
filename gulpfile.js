@@ -22,8 +22,11 @@ const data = {
   ),
   manager: Object.assign({}, ...[
       'data',
+      'employment',
       'personal-details',
       'academics',
+      'open-source',
+      'summary'
     ].map((file) => {
       const fileName = `${dataDir}/manager/${file}${dataExt}`;
       return yaml.safeLoad(fs.readFileSync(fileName, 'utf8'));
@@ -32,7 +35,7 @@ const data = {
 };
 
 gulp.task('developer', () => {
-  gulp.src('templates/index.hbs')
+  gulp.src('templates/developer.hbs')
     .pipe(handlebars(data.developer, {
       helpers: require('./templates/helpers.js'),
       batch: ['./templates'],
@@ -45,7 +48,7 @@ gulp.task('developer', () => {
 });
 
 gulp.task('manager', () => {
-  gulp.src('templates/index.hbs')
+  gulp.src('templates/manager.hbs')
     .pipe(handlebars(data.manager, {
       helpers: require('./templates/helpers.js'),
       batch: ['./templates'],
