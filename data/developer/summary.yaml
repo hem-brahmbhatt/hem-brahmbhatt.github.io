@@ -1,11 +1,11 @@
 summary:
-  - detail: Lead software developer with <strong>5 years</strong> experience working in industries including <strong>Fashion</strong>, <strong>Media</strong> and <strong>Retail</strong>, creating and maintaining high quality, performant customer facing applications.
+  - detail: Software consultant with <strong>5 years</strong> experience working in industries including <strong>Fashion</strong>, <strong>Publishing & Media</strong> and <strong>Retail</strong>, creating and maintaining high quality, performant customer facing applications.
   - detail: Experience in technologies across the stack including
     list:
       - heading: Client-side
         contents: JavaScript <span class="inactive">(ES6, vanilla, React, Angular, Ember, jQuery, progressive web apps)</span>, CSS <span class="inactive">(sass, style guides, animations, cross-browser)</span>, high performance techniques, single-page apps
       - heading: Server-side
-        contents: Node.js, Ruby, Java, http, MQ, caching
+        contents: Node.js, Java, Ruby, http, MQ, caching
       - heading: Database
         contents: MySQL, Mongo, Git
       - heading: Pipeline and delivery
