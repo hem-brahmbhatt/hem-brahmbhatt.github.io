@@ -13,7 +13,7 @@ companies:
 
       - name: Hafton
         date: "April '16 - July '16"
-        tech: Javascript <span class=inactive>(build and CLI)</span>, AWS S3, Jenkins
+        tech: Javascript <span class=inactive>(ES6, build and CLI)</span>, AWS S3, Jenkins
         description: Replatformed furniture for Outnet.com (header, footer, common libraries and features across the site)
         detail:
           - Resulted in a smaller code base, build and deployment of changes were live within 3 minutes
@@ -23,7 +23,7 @@ companies:
 
       - name: preston.hemtech.io
         date: "Feb '16 - Sep '16"
-        tech: Sass (animations, grid, iconography), Javascript <span class=inactive>(ES6, Koa.js, Angular.js, build and CLI)</span>, Heroku, Travis CI, open source
+        tech: Sass (animations, grid, iconography), Javascript <span class=inactive>(ES6, Node.js, Koa.js, Angular.js, build and CLI)</span>, Heroku, Travis CI, open source
         description: Style guide for Outnet.com
         detail:
           - Created style guide for Outnet.com with close collaboration with designers
