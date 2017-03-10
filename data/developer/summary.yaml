@@ -5,7 +5,7 @@ summary:
       - heading: Client-side
         contents: JavaScript <span class="inactive">(ES6, vanilla, React, Angular, Ember, jQuery, progressive web apps)</span>, CSS <span class="inactive">(sass, style guides, animations, cross-browser)</span>, high performance techniques, single-page apps
       - heading: Server-side
-        contents: Node.js, Java, Ruby, http, MQ, caching
+        contents: APIs <span class="inactive">(Node.js, Java, Ruby)</span>, interfacing upstream services <span class="inactive">(http, MQ, caching strategies)</span>, serving web assets
       - heading: Pipeline and delivery
         contents: Build scripts <span class="inactive">(bash, JavaScript, Grunt, Gulp)</span>, CI <span class="inactive">(Jenkins, TeamCity, Travis, Circle)</span>, distributables <span class="inactive">(npm, RPM, static site delivery)</span>, expert on Git
       - heading: Database
