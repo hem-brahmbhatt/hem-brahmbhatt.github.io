@@ -1,5 +1,5 @@
 companies:
-  - name: Yoox Net-A-Porter Group
+  - name: Yoox Net-A-Porter Group <span class="inactive">- 2 years</span>
     projects:
       - name: www.outnet.com/Product
         date: "July '16 - Oct '16"
@@ -43,14 +43,18 @@ companies:
         date: "Feb '15 - June '15"
         tech: Javascript <span class=inactive>(ES6, Node.js, Angular.js, Koa.js)</span>, Jasmine <span class=inactive>(chai, sinon)</span>, Git
         description: CMS system for content changes on the Outnet.com homepage and campaign pages
-  - name: BSkyB
+  - name: BSkyB <span class="inactive">- 3+ years</span>
     projects:
-      - name: broadbandshield.sky.com
+      - name: Order Tracking
+        date: "July '14 - Jan '15"
+        tech: Javascript <span class=inactive>(ES6, Ember.js, Node.js)</span>, Mocha <span class=inactive>(chai, sinon, zombie)</span>, Ruby <span class=inactive>(Middleware, Gem, Sinatra, RSpec, Cucumber)</span></strong>
+        description: Site for customers to track their order, cancellations, upgrades and appointments.
+      - name: Broadband Shield
         date: "June '13 - May '14"
         tech: Ruby <span class=inactive>(Sinatra, rest-client)</span>, Javascript <span class=inactive>(CoffeeScript, Backbone.js, jQuery, underscore)</span> Cucumber, HTML, Sass, MongoDB
         description: Broadband Shield is a solution for parents concerned about the content their family is viewing online.
 
-      - name: myaccount.sky.com/bill
+      - name: Online Billing
         date: "April '13 - November '13"
         tech: Java <span class=inactive>(Spring MVC, Jersey, Xmlbeans)</span>, Cucumber, HTML, Sass, TeamCity, IntelliJ
         description: Redesign the online bill to make the bill more accessible and easier to understand by displaying the most important information, and to use analytics to target problems to address.
