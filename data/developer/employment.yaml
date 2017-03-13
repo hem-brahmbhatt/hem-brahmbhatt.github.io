@@ -1,8 +1,17 @@
 companies:
   - name: Yoox Net-A-Porter Group <span class="inactive">- 2 years</span>
     projects:
+      - name: Front-end scaffold
+        date: "Oct '16 - Nov '16"
+        tech: Javascript <span class=inactive>(ES6, React, Redux, Webpack, Mocha)</span>, PostCSS
+        description: Boilerplate for future front-end applications for Outnet.com
+        detail:
+          - Lead the planning and development, making sure investigations were timeboxed
+          - Recommended the use of PostCSS and Mocha for testing
+          - Evaluated Webpack compared to other task managers including Gulp and npm scripts
+
       - name: www.outnet.com/Product
-        date: "July '16 - Oct '16"
+        date: "July '16 - Sep '16"
         tech: Javascript <span class=inactive>(ES6, vanilla, single-page app)</span>, Sass, Java, MySQL
         description: Product pages for Outnet.com
         detail:
@@ -21,14 +30,14 @@ companies:
           - Created an isomorphic Javascript library for client projects and distributed via npm
           - Project contained dynamic server for testing as well as end-to-end testing of static assets
 
-      - name: preston.hemtech.io
+      - name: Preston
         date: "Feb '16 - Sep '16"
-        tech: Sass (animations, grid, iconography), Javascript <span class=inactive>(ES6, Node.js, Koa.js, Angular.js, build and CLI)</span>, Heroku, Travis CI, open source
-        description: Style guide for Outnet.com
+        tech: Sass (animations, grid, iconography), Javascript <span class=inactive>(ES6, lerna, Node.js, Koa.js, Angular.js, build and CLI)</span>, Heroku, Travis CI, open source
+        description: Style guide for Outnet.com, including open-source framework for style guides
         detail:
           - Created style guide for Outnet.com with close collaboration with designers
           - Highly automated pipeline allowed continuous delivery of consistant style changes across the entire site
-          - Managed planning, development and delivery/distribution methods (bower, npm, git) as well as integrating across the site
+          - Managed planning, development and delivery/distribution methods (bower, npm, git) as well as integrating across the site and open-sourcing
 
       - name: www.outnet.com
         date: "June '15 - Feb '16"

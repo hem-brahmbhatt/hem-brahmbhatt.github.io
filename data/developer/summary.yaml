@@ -3,7 +3,7 @@ summary:
   - detail: Experience in web technologies across the stack including
     list:
       - heading: Client-side
-        contents: JavaScript <span class="inactive">(ES6, vanilla, React, Angular, Ember, jQuery, progressive web apps)</span>, CSS <span class="inactive">(sass, style guides, animations, cross-browser)</span>, high performance techniques, single-page apps
+        contents: JavaScript <span class="inactive">(ES6, vanilla, React, Angular, jQuery, Webpack, progressive web apps)</span>, CSS <span class="inactive">(sass, style guides, animations, cross-browser)</span>, high performance techniques, single-page apps
       - heading: Server-side
         contents: APIs <span class="inactive">(Node.js, Java, Ruby)</span>, interfacing upstream services <span class="inactive">(http, MQ, caching strategies)</span>, serving web assets
       - heading: Pipeline and delivery
