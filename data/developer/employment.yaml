@@ -12,7 +12,7 @@ companies:
 
       - name: www.outnet.com/Product
         date: "July '16 - Sep '16"
-        tech: Javascript <span class=inactive>(ES6, vanilla, single-page app)</span>, Sass, Java, MySQL
+        tech: Javascript <span class=inactive>(ES6, vanilla, jQuery, single-page app)</span>, Sass, Java, MySQL
         description: Product pages for Outnet.com
         detail:
           - Single-page app, heavily optimised for SEO (crawlable, performant, responsive)
@@ -41,7 +41,7 @@ companies:
 
       - name: www.outnet.com
         date: "June '15 - Feb '16"
-        tech: Javascript <span class=inactive>(ES6, vanilla, single-page app)</span>, Sass, Java, MySQL
+        tech: Javascript <span class=inactive>(ES6, jQuery, single-page app)</span>, Sass, Java, MySQL
         description: Listing page application for Outnet.com
         detail:
           - Single-page app, heavily optimised for SEO (crawlable, performant, responsive)
