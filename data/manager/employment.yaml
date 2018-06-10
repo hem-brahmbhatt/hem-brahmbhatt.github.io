@@ -1,6 +1,15 @@
 companies:
   - name: Yoox Net-A-Porter Group
     projects:
+      - name: Front-end scaffold SDK
+        date: "Oct '16 - Nov '16"
+        tech: Javascript <span class=inactive>(ES6, React, Redux, Webpack, Mocha)</span>, PostCSS
+        description: Boilerplate for future front-end applications for Outnet.com
+        detail:
+          - Lead the planning and development of a team of four senior developers, making sure investigations were timeboxed
+          - Coached developers on the use of PostCSS and Mocha for testing
+          - Evaluated Webpack compared to other task managers including Gulp and npm scripts
+
       - name: www.outnet.com/Product
         date: "July '16 - Oct '16"
         tech: Scrum, Agile, Javascript, Sass, Java, MySQL
@@ -17,7 +26,7 @@ companies:
         description: Replatformed shared component API for Outnet.com (header, footer, common libraries and features across the site)
         detail:
           - Created a business case for the importance of replatforming the existing service
-          - Developed in a pipeline where changes could be tested and released within 3 minutes
+          - Developed a pipeline where changes could be tested and released within 3 minutes
           - Code base created static assets on AWS S3 for pages to consume.
           - Created a shared library for client projects and distributed via npm
           - Worked with development team to include unit and acceptance tests as part of pipeline
