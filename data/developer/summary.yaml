@@ -5,16 +5,16 @@ summary:
       - heading: Client-side
         contents: JavaScript <span class="inactive">(ES6, vanilla, React, jQuery, Webpack, progressive web apps)</span>, CSS <span class="inactive">(sass, style guides, animations, cross-browser)</span>, high performance techniques, single-page apps
       - heading: Server-side
-        contents: Languages <span class="inactive">(Node.js, Java, Ruby)</span>, APIs <span class="inactive">(http, MQ, caching strategies)</span>
+        contents: Languages <span class="inactive">(Node.js, Java, Ruby)</span>, APIs <span class="inactive">(http, serverless, MQ, caching strategies)</span>
       - heading: Networking and Hosting
-        contents: AWS <span class="inactive">(EC2, S3, EC2, Route 53, Lambda)</span>, Apache http, Tomcat, Nginx, Akamai
+        contents: AWS <span class="inactive">(EC2, S3, Route 53, Lambda, API Gateway, CloudFront)</span>, web server <span class="inactive">(Apache, Nginx)</span> http, CDN <span class="inactive">(Akamai, CloudFront, CDNetworks)</span>
       - heading: Dev Ops
-        contents: Containerization (Dockers, Kubernetes, ECS, repository management), Logging and monitoring solutions <span class="inactive">(Kibana, CloudWatch, APM)</span>, linux, ssh, server management
+        contents: Containerization <span class="inactive">(Dockers, Kubernetes, ECS, repository management)</span>, Logging and monitoring solutions <span class="inactive">(Kibana, CloudWatch, APM)</span>, linux, ssh, server management
       - heading: Database
-        contents: Postgres, SQL, MongoDB
+        contents: RDS, Postgres, SQL, MongoDB, replication, backups, remote access.
       - heading: Pipeline and delivery
         contents: Scripting <span class="inactive">(bash, JavaScript, Grunt, Gulp)</span>, CI <span class="inactive">(TeamCity, Jenkins, Travis, Circle)</span>, packages <span class="inactive">(npm, yum, apt, gem, pip)</span>, expert on Git
       - heading: Security
         contents: Attack <span class="inactive">(XSS, XSRF, SQL injection, MITM)</span>, protocols <span class="inactive">(OAuth, JWT, HTTPS)</span>, public/private key encryption
   - detail: Experienced coach and team lead, able to upskill teams on cutting-edge technology and practices, good speaker and presenter. Excellent pair programmer, and experienced in multiple disciplines (management, UX & design, quality assurance, delivery and customer/client management). Able to apply techniques such as TDD, OOP, polyglot development.
-  - detail: Able to effectively transition into new and existing teams. Experienced in identifying and solving constraints by applying methodologies including lean principles, <strong>Scrum</strong>, <strong>XP</strong>, <strong>Agile</strong>, <strong>TDD</strong> and <strong>BDD</strong>.
+  - detail: Able to effectively transition into new and existing teams. Experienced in  applying methodologies including lean principles, <strong>Scrum</strong>, <strong>XP</strong> and <strong>Agile</strong>.
