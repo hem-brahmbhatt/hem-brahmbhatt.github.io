@@ -4,7 +4,9 @@ open-source:
     description: Talk on replacing TheSun.co.uk's website with Node.js. Presented at NewsUK and comparethemarket.com.
   - name: A talk on animations
     description: Talk targetting developers and managers. Presented at UCL and Net-A-Porter.
-  - name: Preston
+  - name: times-components
+    description: Component library, cross-platform across web, android and iOS, using React and React-Native
+  - name: preston
     description: Style guide for Outnet.com.
   - name: skyglobal.github.io/web-toolkit
     description: Front end framework by Sky.
