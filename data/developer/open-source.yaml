@@ -1,10 +1,12 @@
 
 open-source:
+  - name: Adventures scaling a node app
+    description: Talk on replacing TheSun.co.uk's website with Node.js. Presented at NewsUK and comparethemarket.com.
   - name: A talk on animations
     description: Talk targetting developers and managers. Presented at UCL and Net-A-Porter.
   - name: Preston
-    description: Style guide for Outnet.com
+    description: Style guide for Outnet.com.
   - name: skyglobal.github.io/web-toolkit
-    description: Front end framework by Sky
+    description: Front end framework by Sky.
   - name: node-convict
     description: Configuration management for node.js projects by Mozilla.
