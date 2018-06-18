@@ -26,7 +26,7 @@ companies:
     projects:
       - name: The Outnet
         date: "Jun '15 - Nov '16"
-        tech: Javascript <span class=inactive>(ES6, React, Angular, jQuery, Node)</span>, CSS (Sass, PostCSS), Java, MySQL
+        tech: Javascript <span class=inactive>(ES6, React, Angular, jQuery, Node)</span>, CSS <span class="inactive">(Sass, PostCSS)</span>, Java, MySQL
         description: Contributed to rewriting Outnet.com website and APIs.
         detail:
           - Managed the planning of a boilerplate for future front-end applications for Outnet.com, including research, scope and estimations.
