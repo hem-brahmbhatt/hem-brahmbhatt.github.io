@@ -1,20 +1,20 @@
 summary:
-  - detail: Software consultant with <strong>7 years</strong> experience working in industries including <strong>News</strong>, <strong>Media</strong>, <strong>Fashion</strong> and <strong>Online Retail</strong>, creating and maintaining high quality, performant customer facing applications.
+  - detail: Software consultant with <strong>8 years</strong> experience working in industries including <strong>News</strong>, <strong>Publishing</strong>, <strong>Media</strong> and <strong>Fashion</strong>, creating and maintaining high quality, performant customer facing applications.
   - detail: Experience in web technologies across the stack including
     list:
       - heading: Client-side
-        contents: JavaScript <span class="inactive">(ES6, vanilla, React, jQuery, Webpack, progressive web apps)</span>, CSS <span class="inactive">(sass, style guides, animations, cross-browser)</span>, high performance techniques, single-page apps
+        contents: JavaScript <span class="inactive">(ES6, vanilla, React, jQuery, Webpack, progressive web apps)</span>, CSS <span class="inactive">(styled-components, sass, style guides, animations, cross-browser)</span>, high performance techniques, single-page apps
       - heading: Server-side
         contents: Languages <span class="inactive">(Node.js, Java, Ruby)</span>, APIs <span class="inactive">(http, serverless, MQ, caching strategies)</span>
       - heading: Networking and Hosting
-        contents: AWS <span class="inactive">(EC2, S3, Route 53, Lambda, API Gateway, CloudFront)</span>, web server <span class="inactive">(Apache, Nginx)</span> http, CDN <span class="inactive">(Akamai, CloudFront, CDNetworks)</span>
+        contents: AWS <span class="inactive">(EC2, S3, Route 53, Lambda, API Gateway, CloudFront)</span>, web servers <span class="inactive">(Apache, Nginx)</span>, CDN <span class="inactive">(Akamai, CloudFront, CDNetworks)</span>
       - heading: Dev Ops
-        contents: Containerization <span class="inactive">(Dockers, Kubernetes, ECS, repository management)</span>, Logging and monitoring solutions <span class="inactive">(Kibana, CloudWatch, APM)</span>, linux, ssh, server management
+        contents: Containerization <span class="inactive">(Docker, Kubernetes, ECS)</span>, Logging and monitoring solutions <span class="inactive">(Kibana, CloudWatch, NewRelic)</span>, linux, ssh, server management
       - heading: Database
-        contents: RDS, Postgres, SQL, MongoDB, replication, backups, remote access.
+        contents: Relational <span class="inactive">(RDS, Postgres, SQL)</span>, non-relational <span class="inactive">(MongoDB)</span>, replication, backups, remote access.
       - heading: Pipeline and delivery
-        contents: Scripting <span class="inactive">(bash, JavaScript, Grunt, Gulp)</span>, CI <span class="inactive">(TeamCity, Jenkins, Travis, Circle)</span>, packages <span class="inactive">(npm, yum, apt, gem, pip)</span>, expert on Git
+        contents: Scripting <span class="inactive">(bash, JavaScript, Grunt, Gulp)</span>, CI <span class="inactive">(Jenkins, TeamCity, Gitlab, Travis, Circle)</span>, packages <span class="inactive">(npm, yum, apt, gem, pip)</span>, expert on Git
       - heading: Security
         contents: Attack <span class="inactive">(XSS, XSRF, SQL injection, MITM)</span>, protocols <span class="inactive">(OAuth, JWT, HTTPS)</span>, public/private key encryption
-  - detail: Experienced coach and team lead, able to upskill teams on cutting-edge technology and practices, good speaker and presenter. Excellent pair programmer, and experienced in multiple disciplines (management, UX & design, quality assurance, delivery and customer/client management). Able to apply techniques such as TDD, OOP, polyglot development.
-  - detail: Able to effectively transition into new and existing teams. Experienced in  applying methodologies including lean principles, <strong>Scrum</strong>, <strong>XP</strong> and <strong>Agile</strong>.
+  - detail: Experienced coach and team lead, able to upskill teams on cutting-edge technology and practices, public speaker. Experienced in multiple disciplines (management, UX & design, quality assurance, delivery and customer/client management). Able to apply techniques such as TDD, OOP, extreme programming.
+  - detail: Able to effectively transition into new and existing teams. Experienced in  applying methodologies including <strong>Lean</strong>, <strong>Scrum</strong> and <strong>Agile</strong>.

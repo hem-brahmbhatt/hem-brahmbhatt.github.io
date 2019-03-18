@@ -1,4 +1,16 @@
 companies:
+  - name: eLife Sciences <span class="inactive">- 9 months</span>
+    projects:
+      - name: eLife xPub
+        date: "Jun '18 - Mar '19"
+        tech: Javascript <span class="inactive">(ES6, React, GraphQL, Node.js)</span>, AWS <span class="inactive">(EC2, S3, RDS)</span>, database <span class="inactive">(Postgres)</span>
+        description: Open source submission platform for scientific papers.
+        detail:
+          - Lead developer of the London based team, working remotely with the Cambridge team.
+          - Brought in to facilitate the delivery of the platform to production
+          - Responsible for technical planning and architecture, and adding non-functional work to the backlog.
+          - Contributed to Pubsweet, an open source framework, attended several meetups with international contributors while representing the client.
+
   - name: NewsUK <span class="inactive">- 1+ years</span>
     projects:
       - name: The Times
