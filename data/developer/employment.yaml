@@ -15,7 +15,7 @@ companies:
     projects:
       - name: The Times
         date: "Sep '17 - Jun '18"
-        tech: Javascript <span class="inactive">(ES6, React Native, GraphQL, Node.js)</span>, AWS <span class="inactive">(EC2, lambda, S3, API Gateway, RDS, networking)</span>, database <span class="inactive">(Postgres, ElasticSearch)</span>, Android
+        tech: Javascript <span class="inactive">(ES6, React Native, GraphQL, Node.js)</span>, AWS <span class="inactive">(terraform, EC2, lambda, API Gateway, RDS)</span>, database <span class="inactive">(Postgres, ElasticSearch)</span>, Android
         description: New platform for The Times technology products. Worked on public and private APIs, cross-platform components across Android, iOS and Web.
         detail:
           - Lead a team to create a serverless API handling customer's saved preferences. Conformed to GDPR, and managed project scope and delivery.
@@ -24,7 +24,7 @@ companies:
           - Contributed to cross-platform React Native components and public GraphQL API.
       - name: The Sun
         date: "April '17 - Sep '18"
-        tech: Javascript <span class="inactive">(ES6, React, Node.js)</span>, AWS <span class="inactive">(ECS, lambda, S3, networking)</span>, caching <span class="inactive">(Redis, Varnish, Akamai, memoize)</span>
+        tech: Javascript <span class="inactive">(ES6, React, Node.js)</span>, AWS <span class="inactive">(CloudFormation, ECS, lambda)</span>, caching <span class="inactive">(Redis, Varnish, Akamai, memoize)</span>
         description: High performance platform for The Sun's technology estate. Worked on React component library, AWS hosting and infrastructure.
         detail:
           - Contributed towards the new platform for The Sun. Made the platform highly automated and performant.

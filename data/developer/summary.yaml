@@ -3,18 +3,18 @@ summary:
   - detail: Experience in web technologies across the stack including
     list:
       - heading: Client-side
-        contents: JavaScript <span class="inactive">(ES6, vanilla, React, jQuery, Webpack, progressive web apps)</span>, CSS <span class="inactive">(styled-components, sass, style guides, animations, cross-browser)</span>, high performance techniques, single-page apps
+        contents: JavaScript <span class="inactive">(ES6, React, jQuery, Webpack)</span>, CSS <span class="inactive">(styled-components, SASS, style guides, animations, cross-browser)</span>, single-page apps
       - heading: Server-side
-        contents: Languages <span class="inactive">(Node.js, Java, Ruby)</span>, APIs <span class="inactive">(http, serverless, MQ, caching strategies)</span>
+        contents: Node.js, APIs <span class="inactive">(GraphQL, REST, MQ, serverless)</span>
       - heading: Networking and Hosting
-        contents: AWS <span class="inactive">(EC2, S3, Route 53, Lambda, API Gateway, CloudFront)</span>, web servers <span class="inactive">(Apache, Nginx)</span>, CDN <span class="inactive">(Akamai, CloudFront, CDNetworks)</span>
+        contents: AWS <span class="inactive">(EC2, Lambda, API Gateway, CloudFront)</span>, web servers <span class="inactive">(Apache, Nginx)</span>, CDN <span class="inactive">(Akamai, CloudFront, CDNetworks)</span>
       - heading: Dev Ops
-        contents: Containerization <span class="inactive">(Docker, Kubernetes, ECS)</span>, Logging and monitoring solutions <span class="inactive">(Kibana, CloudWatch, NewRelic)</span>, linux, ssh, server management
+        contents: Containerization <span class="inactive">(Docker, Kubernetes, ECS)</span>, Infrastructure <span class="inactive">(Terraform, CloudFormation)</span>, Logging and monitoring <span class="inactive">(Kibana, CloudWatch, NewRelic)</span>, linux, SSH
       - heading: Database
         contents: Relational <span class="inactive">(RDS, Postgres, SQL)</span>, non-relational <span class="inactive">(MongoDB)</span>, replication, backups, remote access.
       - heading: Pipeline and delivery
         contents: Scripting <span class="inactive">(bash, JavaScript, Grunt, Gulp)</span>, CI <span class="inactive">(Jenkins, TeamCity, Gitlab, Travis, Circle)</span>, packages <span class="inactive">(npm, yum, apt, gem, pip)</span>, expert on Git
       - heading: Security
-        contents: Attack <span class="inactive">(XSS, XSRF, SQL injection, MITM)</span>, protocols <span class="inactive">(OAuth, JWT, HTTPS)</span>, public/private key encryption
+        contents: Attack vectors <span class="inactive">(XSS, XSRF, SQL injection, MITM)</span>, protocols <span class="inactive">(OAuth, JWT, HTTPS)</span>, public/private key encryption
   - detail: Experienced coach and team lead, able to upskill teams on cutting-edge technology and practices, public speaker. Experienced in multiple disciplines (management, UX & design, quality assurance, delivery and customer/client management). Able to apply techniques such as TDD, OOP, extreme programming.
   - detail: Able to effectively transition into new and existing teams. Experienced in  applying methodologies including <strong>Lean</strong>, <strong>Scrum</strong> and <strong>Agile</strong>.
