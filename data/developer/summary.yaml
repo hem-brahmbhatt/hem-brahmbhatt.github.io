@@ -1,20 +1,16 @@
 summary:
-  - detail: Software consultant with <strong>8 years</strong> experience working in industries including <strong>News</strong>, <strong>Publishing</strong>, <strong>Media</strong> and <strong>Fashion</strong>, creating and maintaining high quality, performant customer facing applications.
-  - detail: Experience in web technologies across the stack including
+  - detail: Software engineer with <strong>8 years</strong> experience working in industries including <strong>News</strong>, <strong>Publishing</strong>, <strong>Media</strong> and <strong>Fashion</strong>, creating and maintaining high quality, performant customer facing applications.
+  - detail: Experience in full-stack web technologies including
     list:
       - heading: Client-side
-        contents: JavaScript <span class="inactive">(ES6, React, jQuery, Webpack)</span>, CSS <span class="inactive">(styled-components, SASS, style guides, animations, cross-browser)</span>, single-page apps
+        contents: JavaScript <span class="inactive">(ES6, React, Vue.js)</span>, CSS <span class="inactive">(styled-components, SASS, style guides, animations, cross-browser)</span>
       - heading: Server-side
-        contents: Node.js, APIs <span class="inactive">(GraphQL, REST, MQ, serverless)</span>
+        contents: Node.js, APIs <span class="inactive">(serverless, GraphQL, REST, MQ)</span>
       - heading: Networking and Hosting
-        contents: AWS <span class="inactive">(EC2, Lambda, API Gateway, CloudFront)</span>, web servers <span class="inactive">(Apache, Nginx)</span>, CDN <span class="inactive">(Akamai, CloudFront, CDNetworks)</span>
+        contents: AWS <span class="inactive">(EC2, Lambda, API Gateway, CloudFront)</span>, CDN <span class="inactive">(CloudFront, Akamai, CDNetworks)</span>, web servers <span class="inactive">(Nginx, Apache)</span>
       - heading: Dev Ops
-        contents: Containerization <span class="inactive">(Docker, Kubernetes, ECS)</span>, Infrastructure <span class="inactive">(Terraform, CloudFormation)</span>, Logging and monitoring <span class="inactive">(Kibana, CloudWatch, NewRelic)</span>, linux, SSH
-      - heading: Database
-        contents: Relational <span class="inactive">(RDS, Postgres, SQL)</span>, non-relational <span class="inactive">(MongoDB)</span>, replication, backups, remote access.
-      - heading: Pipeline and delivery
-        contents: Scripting <span class="inactive">(bash, JavaScript, Grunt, Gulp)</span>, CI <span class="inactive">(Jenkins, TeamCity, Gitlab, Travis, Circle)</span>, packages <span class="inactive">(npm, yum, apt, gem, pip)</span>, expert on Git
-      - heading: Security
-        contents: Attack vectors <span class="inactive">(XSS, XSRF, SQL injection, MITM)</span>, protocols <span class="inactive">(OAuth, JWT, HTTPS)</span>, public/private key encryption
-  - detail: Experienced coach and team lead, able to upskill teams on cutting-edge technology and practices, public speaker. Experienced in multiple disciplines (management, UX & design, quality assurance, delivery and customer/client management). Able to apply techniques such as TDD, OOP, extreme programming.
-  - detail: Able to effectively transition into new and existing teams. Experienced in  applying methodologies including <strong>Lean</strong>, <strong>Scrum</strong> and <strong>Agile</strong>.
+        contents: Containerization <span class="inactive">(Docker, Kubernetes, ECS)</span>, Infrastructure <span class="inactive">(CloudFormation, Terraform)</span>, Logging and monitoring <span class="inactive">(Kibana, CloudWatch, NewRelic, Bugsnag)</span>, Scripting <span class="inactive">(bash, JavaScript)</span>, CI <span class="inactive">(Jenkins, TeamCity, Gitlab, Travis)</span> 
+      - heading: Data and Security
+        contents: Relational <span class="inactive">(RDS, Postgres, SQL)</span>, non-relational <span class="inactive">(MongoDB)</span>, replication, backups, remote access. Encryption and security protocols <span class="inactive">(OAuth, JWT, HTTPS)</span>.
+  - detail: Experienced with greenfield projects and rewriting platforms. Focused on delivery and meeting targets. Emphasis on testing and code ownership.
+  - detail: Experienced in applying methodologies including <strong>Lean</strong>, <strong>Scrum</strong> and <strong>Agile</strong>.
