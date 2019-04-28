@@ -34,7 +34,7 @@ companies:
   - name: BSkyB <span class="inactive">- 3+ years</span>
     projects:
       - name: Order Tracking, Online Billing and MCS
-        date: "Feb '12 - Jan '15"
+        date: "Sep '11 - Jan '15"
         tech: Javascript <span class=inactive>(ES6, Ember.js, Node.js)</span>, Ruby <span class=inactive>(Middleware, Gem, Sinatra, RSpec, Cucumber)</span>, Java <span class=inactive>(Spring, Jersey, Xmlbeans, Jackson, HTTP and JMS)</span>, Linux, Cassandra, Oracle</strong>
         detail: 
           - Site for customers to track their order, cancellations, upgrades and appointments.
