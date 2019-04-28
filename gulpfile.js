@@ -58,4 +58,4 @@ gulp.task('manager', () => {
     .pipe(gulp.dest('./'))
 });
 
-gulp.task('default', ['developer', 'manager']);
+gulp.task('default', ['developer']);
