@@ -3,9 +3,9 @@ summary:
   - detail: Experience in full-stack web technologies including
     list:
       - heading: Client-side
-        contents: JavaScript <span class="inactive">(React, Vue.js, ES6)</span>, CSS <span class="inactive">(styled-components, SASS, style guides, cross-browser)</span>
+        contents: JavaScript <span class="inactive">(React, Vue.js, React Native)</span>, CSS <span class="inactive">(styled-components, responsive design, cross-browser, SASS)</span>
       - heading: Server-side
-        contents: Node.js, APIs <span class="inactive">(serverless, Apollo, GraphQL, REST, MQ)</span>
+        contents: Node.js <span class="inactive">(Apollo, serverless, Typescript, Flow, ES6)</span>, APIs <span class="inactive">(GraphQL, REST, MQ)</span>
       - heading: Networking and Hosting
         contents: AWS <span class="inactive">(EC2, Lambda, API Gateway, CloudFront, SQS)</span>, CDN <span class="inactive">(CloudFront, Akamai, CDNetworks)</span>, web servers <span class="inactive">(Nginx, Apache)</span>
       - heading: Dev Ops
