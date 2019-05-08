@@ -1,9 +1,17 @@
 companies:
+  - name: Nexmo <span class="inactive">- 3 months</span>
+    projects:
+      - name: Global API provider for SMS, voice and messaging
+        date: "Mar '18 - Jun '19"
+        detail:
+          - Developed onboarding pages, with interactive demos of Nexmo products
+          - Increased first activity from 16% to 45% and first payments by 35% through AB testing
+          - Created reports on Nexmo API usage using multiple data sources
+
   - name: eLife Sciences <span class="inactive">- 9 months</span>
     projects:
-      - name: Open source submission platform for scientific papers.
+      - name: Open source submission platform for scientific papers
         date: "Jun '18 - Mar '19"
-        tech: Javascript <span class="inactive">(ES6, React, GraphQL, Node.js)</span>, AWS <span class="inactive">(EC2, S3, RDS)</span>, database <span class="inactive">(Postgres)</span>
         detail:
           - Lead developer of the London based team, working remotely with the Cambridge team.
           - Responsible for technical planning and architecture, and adding non-functional work to the backlog.
@@ -11,11 +19,10 @@ companies:
 
   - name: NewsUK <span class="inactive">- 1+ years</span>
     projects:
-      - name: Apps and publishing platforms for The Times and The Sun.
+      - name: Web and mobile platforms for The Times and The Sun
         date: "April '17 - Jun '18"
-        tech: Javascript <span class="inactive">(ES6, React Native, GraphQL, Node.js)</span>, AWS <span class="inactive">(terraform, EC2, lambda, API Gateway, RDS)</span>, database <span class="inactive">(Postgres, ElasticSearch)</span>, Android
         detail:
-          - Lead a team to create a serverless API handling customer's saved preferences. Conformed to GDPR, and managed project scope and delivery.
+          - Led a team to create a serverless API handling customer's saved preferences. Conformed to GDPR, and managed project scope and delivery.
           - Managed and delivered deeplinking across times.co.uk and native apps, including development of APIs to support the feature.
           - Developed tooling within the new platform for automated load testing, logging, database migrations, backups and VPNs.
           - Developed a public facing GraphQL API, running on lambdas
@@ -25,7 +32,6 @@ companies:
     projects:
       - name: Website and retail platform for The Outnet
         date: "Jun '15 - Nov '16"
-        tech: Javascript <span class=inactive>(ES6, React, Angular, jQuery, Node)</span>, CSS <span class="inactive">(Sass, PostCSS)</span>, Java, MySQL
         detail:
           - Developed product and listing pages for Outnet.com, as single-page apps, optimised for SEO
           - Created live style guide for Outnet.com, and created a framework for style guide development. Managed delivery and development inluding integration across the wider organisation.
@@ -35,7 +41,6 @@ companies:
     projects:
       - name: Order Tracking, Online Billing and MCS
         date: "Sep '11 - Jan '15"
-        tech: Javascript <span class=inactive>(ES6, Ember.js, Node.js)</span>, Ruby <span class=inactive>(Middleware, Gem, Sinatra, RSpec, Cucumber)</span>, Java <span class=inactive>(Spring, Jersey, Xmlbeans, Jackson, HTTP and JMS)</span>, Linux, Cassandra, Oracle</strong>
         detail: 
           - Site for customers to track their order, cancellations, upgrades and appointments.
           - Redesigned the online bill to make the bill more accessible and easier to understand by displaying the most important information, and to use analytics to target problems to address.

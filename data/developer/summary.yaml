@@ -1,16 +1,16 @@
 summary:
-  - detail: Software engineer with <strong>8 years</strong> experience working in industries including <strong>News</strong>, <strong>Publishing</strong>, <strong>Media</strong> and <strong>Fashion</strong>, creating and maintaining high quality, performant customer facing applications.
+  - detail: Software engineer with <strong>8 years</strong> experience working in industries including <strong>News</strong>, <strong>Publishing</strong>, <strong>Media</strong> and <strong>Fashion</strong>, creating and supporting large scale platforms and applications.
   - detail: Experience in full-stack web technologies including
     list:
       - heading: Client-side
-        contents: JavaScript <span class="inactive">(ES6, React, Vue.js)</span>, CSS <span class="inactive">(styled-components, SASS, style guides, animations, cross-browser)</span>
+        contents: JavaScript <span class="inactive">(React, Vue.js, ES6)</span>, CSS <span class="inactive">(styled-components, SASS, style guides, cross-browser)</span>
       - heading: Server-side
-        contents: Node.js, APIs <span class="inactive">(serverless, GraphQL, REST, MQ)</span>
+        contents: Node.js, APIs <span class="inactive">(serverless, Apollo, GraphQL, REST, MQ)</span>
       - heading: Networking and Hosting
-        contents: AWS <span class="inactive">(EC2, Lambda, API Gateway, CloudFront)</span>, CDN <span class="inactive">(CloudFront, Akamai, CDNetworks)</span>, web servers <span class="inactive">(Nginx, Apache)</span>
+        contents: AWS <span class="inactive">(EC2, Lambda, API Gateway, CloudFront, SQS)</span>, CDN <span class="inactive">(CloudFront, Akamai, CDNetworks)</span>, web servers <span class="inactive">(Nginx, Apache)</span>
       - heading: Dev Ops
-        contents: Containerization <span class="inactive">(Docker, Kubernetes, ECS)</span>, Infrastructure <span class="inactive">(CloudFormation, Terraform)</span>, Logging and monitoring <span class="inactive">(Kibana, CloudWatch, NewRelic, Bugsnag)</span>, Scripting <span class="inactive">(bash, JavaScript)</span>, CI <span class="inactive">(Jenkins, TeamCity, Gitlab, Travis)</span> 
+        contents: Containerization <span class="inactive">(Docker, Kubernetes, ECS)</span>, Infrastructure <span class="inactive">(CloudFormation, Terraform)</span>, Scripting <span class="inactive">(bash, JavaScript)</span>, CI <span class="inactive">(Jenkins, TeamCity, Gitlab, Travis)</span> 
       - heading: Data and Security
-        contents: Relational <span class="inactive">(RDS, Postgres, SQL)</span>, non-relational <span class="inactive">(MongoDB)</span>, replication, backups, remote access. Encryption and security protocols <span class="inactive">(OAuth, JWT, HTTPS)</span>.
-  - detail: Experienced with greenfield projects and rewriting platforms. Focused on delivery and meeting targets. Emphasis on testing and code ownership.
-  - detail: Experienced in applying methodologies including <strong>Lean</strong>, <strong>Scrum</strong> and <strong>Agile</strong>.
+        contents: Relational <span class="inactive">(RDS, Postgres, SQL)</span>, non-relational <span class="inactive">(MongoDB)</span>, replication, backups, remote access. Encryption and security protocols <span class="inactive">(OAuth, JWT, HTTPS)</span>
+      - heading: Project Management
+        contents: Reporting <span class="inactive">(Chart.io, Kibana, CloudWatch, Sheets)</span>, Data Driven Development <span class="inactive">(AB testing, Google Analytics, Hotjar)</span>, Processes <span class="inactive">(Lean, Scrum, Agile)</span>
