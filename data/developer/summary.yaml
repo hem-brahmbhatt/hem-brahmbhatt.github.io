@@ -1,16 +1,16 @@
 summary:
-  - detail: Software engineer with <strong>8 years</strong> experience working in industries including <strong>News</strong>, <strong>Publishing</strong>, <strong>Media</strong> and <strong>Fashion</strong>, creating and supporting large scale platforms and applications.
-  - detail: "Experience in full-stack engineering disciplines including:"
+  - detail: Principal software engineer with experience working across industries including Media and Publishing, designing architecture and producing large scale platforms and applications.   
+  - detail: "Experience in engineering disciplines including:"
     list:
+      - heading: Server-side
+        contents: Node.js <span class="inactive">(Typescript, serverless, ES6, functional, OO, design patterns)</span>, APIs <span class="inactive">(GraphQL, REST, MQ, microservice architecture)</span>
+      - heading: Dev Ops
+        contents: Containerization <span class="inactive">(Docker, Kubernetes, functions)</span>, Infrastructure <span class="inactive">(CloudFormation, Terraform)</span>, Scripting <span class="inactive">(bash, JavaScript)</span>, CI systems <span class="inactive">(Jenkins, Circle CI, TeamCity)</span> 
+      - heading: Networking and Hosting
+        contents: Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways)</span>, AWS <span class="inactive">(EC2, EKS, IAM, Lambda, SQS)</span>, CDN <span class="inactive">(CloudFront, Akamai, CDNetworks)</span>, web servers <span class="inactive">(Nginx, Apache)</span>
+      - heading: Project Management
+        contents: Engineering <span class="inactive">(solution proposals, architecture, backlog refinement, technical documentation, API docs)</span>, Reporting <span class="inactive">(Google Sheets, Chart.io, Kibana, CloudWatch)</span>, Processes <span class="inactive">(Lean, Scrum, Agile)</span>
       - heading: Client-side
         contents: JavaScript <span class="inactive">(React, Vue.js, React Native)</span>, CSS <span class="inactive">(styled-components, responsive design, cross-browser, SASS)</span>
-      - heading: Server-side
-        contents: Node.js <span class="inactive">(Apollo, serverless, Typescript, Flow, ES6)</span>, APIs <span class="inactive">(GraphQL, REST, MQ)</span>
-      - heading: Networking and Hosting
-        contents: AWS <span class="inactive">(EC2, Lambda, API Gateway, CloudFront, SQS)</span>, CDN <span class="inactive">(CloudFront, Akamai, CDNetworks)</span>, web servers <span class="inactive">(Nginx, Apache)</span>
-      - heading: Dev Ops
-        contents: Containerization <span class="inactive">(Docker, Kubernetes, ECS)</span>, Infrastructure <span class="inactive">(CloudFormation, Terraform)</span>, Scripting <span class="inactive">(bash, JavaScript)</span>, CI <span class="inactive">(Jenkins, TeamCity, Gitlab, Travis)</span> 
-      - heading: Data and Security
-        contents: Relational <span class="inactive">(RDS, Postgres, SQL)</span>, non-relational <span class="inactive">(MongoDB)</span>, replication, backups, remote access. Encryption and security protocols <span class="inactive">(OAuth, JWT, HTTPS)</span>
-      - heading: Project Management
-        contents: Reporting <span class="inactive">(Chart.io, Kibana, CloudWatch, Sheets)</span>, Data Driven Development <span class="inactive">(AB testing, Google Analytics, Hotjar)</span>, Processes <span class="inactive">(Lean, Scrum, Agile)</span>
+      - heading: Data storage and Security
+        contents: Databases <span class="inactive">(RDS, Postgres, SQL, MongoDB)</span>, replication, backups, remote access. Encryption and security protocols <span class="inactive">(OAuth, JWT, HTTPS)</span>. Secret management <span class="inactive">(storage, rotations, external access, encryption)</span>

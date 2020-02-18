@@ -1,12 +1,23 @@
 companies:
+  - name: <br/>NewsUK <span class="inactive">- 9 months</span>
+    projects:
+      - name: Audio platform for Wireless radio stations and Times Radio
+        date: "Jun '19 - Mar '20"
+        detail:
+          - Senior backend engineer in a team of 20, responsible for infrastructure, API development, data sync and migration
+          - Involved in projects including replatforming and cluster migration, API authentication, performance testing, contract testing and integration with several upstream services
+          - Responsible for creating solution proposals, architecture and sequence diagrams, supporting documentation following on from implementation
+          - Working with management to create, refine and prioritise backlog, and subsequently developers responsible for implementation
+
   - name: Nexmo <span class="inactive">- 3 months</span>
     projects:
-      - name: Global API provider for SMS, voice and messaging
-        date: "Mar '18 - Jun '19"
+      - name: Developer portal for global API provider for SMS, voice and messaging
+        date: "Mar '19 - Jun '19"
         detail:
           - Developed onboarding pages, with interactive demos of Nexmo products
           - Increased first activity from 16% to 45% and first payments by 35% through AB testing
           - Created reports on Nexmo API usage using multiple data sources
+          - Project was awarded Winner of 2019 DevPortal Best Onboarding award
 
   - name: eLife Sciences <span class="inactive">- 9 months</span>
     projects:
