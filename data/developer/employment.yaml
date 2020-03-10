@@ -4,7 +4,7 @@ companies:
       - name: Audio platform for Wireless Digital radio stations and Times Radio
         date: "Jun '19 - Mar '20"
         detail:
-          - Principal engineer in a team of 20, responsible for infrastructure, API development, data sync and migration
+          - Principal engineer, working in a team of 20, responsible for infrastructure, API development, data sync and migration
           - Steering committee representative for the Wireless Digital programme
           - Involved in deliverables including replatforming and cluster migration, API authentication, performance testing, contract testing and integration with several third-party services
           - Responsible for creating solution proposals, architecture and sequence diagrams, and documenting after implementation
