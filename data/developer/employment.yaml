@@ -1,13 +1,14 @@
 companies:
   - name: <br/>NewsUK <span class="inactive">- 9 months</span>
     projects:
-      - name: Audio platform for Wireless radio stations and Times Radio
+      - name: Audio platform for Wireless Digital radio stations and Times Radio
         date: "Jun '19 - Mar '20"
         detail:
-          - Senior backend engineer in a team of 20, responsible for infrastructure, API development, data sync and migration
-          - Involved in projects including replatforming and cluster migration, API authentication, performance testing, contract testing and integration with several upstream services
-          - Responsible for creating solution proposals, architecture and sequence diagrams, supporting documentation following on from implementation
-          - Working with management to create, refine and prioritise backlog, and subsequently developers responsible for implementation
+          - Principal engineer in a team of 20, responsible for infrastructure, API development, data sync and migration
+          - Steering committee representative for the Wireless Digital programme
+          - Involved in deliverables including replatforming and cluster migration, API authentication, performance testing, contract testing and integration with several third-party services
+          - Responsible for creating solution proposals, architecture and sequence diagrams, and documenting after implementation
+          - Working with management to create, refine and prioritise backlog, and subsequently working with developers responsible for implementation
 
   - name: Nexmo <span class="inactive">- 3 months</span>
     projects:
