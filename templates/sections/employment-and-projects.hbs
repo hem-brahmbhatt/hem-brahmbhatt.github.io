@@ -9,6 +9,9 @@
         {{#each projects}}
           <ul class="skycom-12 project">
             <li><strong><p class="intro smaller  skycom-8">{{date}}</p></strong></li>
+            {{#if role}}
+            <li><strong><span class="skycom-3 alpha">Role</span><span class="skycom-9">{{role}}</span></strong></li>
+            {{/if}}
             <li><strong><span class="skycom-3 alpha">Project</span><span class="skycom-9">{{name}}</span></strong></li>
             {{#if tech}}
             <li><strong><span class="skycom-3 alpha">Technologies</span><span class="skycom-9">{{tech}}</span></strong></li>
