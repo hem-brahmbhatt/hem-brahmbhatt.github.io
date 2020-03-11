@@ -35,6 +35,7 @@ companies:
   - name: <br/>NewsUK <span class="inactive">- 1+ years</span>
     projects:
       - name: Web and mobile platforms for The Times and The Sun
+        role: Node.js Engineer
         date: "April '17 - Jun '18"
         detail:
           - Led a team to create a serverless API handling customer's saved preferences. Conformed to GDPR, and managed project scope and delivery.
@@ -46,6 +47,7 @@ companies:
   - name: Net-A-Porter <span class="inactive">- 2 years</span>
     projects:
       - name: Website and retail platform for The Outnet
+        role: Software Engineer
         date: "Jun '15 - Nov '16"
         detail:
           - Developed product and listing pages for Outnet.com, as single-page apps, optimised for SEO
@@ -55,6 +57,7 @@ companies:
   - name: BSkyB <span class="inactive">- 3+ years</span>
     projects:
       - name: Order Tracking, Online Billing and MCS
+        role: Associate Software Developer to Software Engineer
         date: "Sep '11 - Jan '15"
         detail: 
           - Site for customers to track their order, cancellations, upgrades and appointments.
