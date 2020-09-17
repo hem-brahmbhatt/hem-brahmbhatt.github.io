@@ -1,15 +1,15 @@
 summary:
-  - detail: Principal software engineer, architecting and producing large scale platforms and applications. Working in several industries including Media and Publishing. 
+  - detail: Software Engineer, Solutions Architect and Scrum Master with a passion for problem solving, engineering and working in high-performing teams. From working in several large industries including Media, Finance and Technology, I have helped architect and produce large scale platforms, starting as a Graduate Engineer to working as the Lead Developer for multiple teams. 
     list:
-      - heading: Project Management
-        contents: Engineering <span class="inactive">(solution and architecture proposals, UML diagrams, schemas and API docs, RFCs and governance, backlog refinement)</span>, Software Delivery <span class="inactive">(Lean, Scrum, Agile, hiring, resource allocation)</span>
+      - heading: Leadership
+        contents: Solutions Architect <span class="inactive">(technical strategy, solution proposals, RFCs and governance, technical documentation)</span>, Management <span class="inactive">(Agile, interviewing and hiring, mentoring and leadership)</span>
       - heading: Server-side
-        contents: Node.js <span class="inactive">(Typescript, serverless, ES6, functional, OO, design patterns)</span>, APIs <span class="inactive">(GraphQL, REST, MQ, microservice architecture)</span>
+        contents: Node.js <span class="inactive">(Typescript, serverless, ES6, functional and OOP)</span>, Java <span class="inactive">(Core, Spring, OOP)</span> APIs <span class="inactive">(GraphQL, REST, queues, microservice architecture, serverless)</span>
       - heading: DevOps
-        contents: Containerization <span class="inactive">(Docker, Kubernetes, functions)</span>, Infrastructure <span class="inactive">(CloudFormation, Terraform)</span>, Scripting <span class="inactive">(bash, JavaScript)</span>, CI systems <span class="inactive">(Jenkins, Circle CI, TeamCity)</span> 
+        contents: Containerization <span class="inactive">(Docker, Kubernetes)</span>, Provisioning Infrastructure <span class="inactive">(CloudFormation, Terraform)</span>, Scripting, CI systems.
       - heading: Client-side
-        contents: JavaScript <span class="inactive">(React, Vue.js, React Native)</span>, CSS <span class="inactive">(styled-components, responsive design, cross-browser, SASS)</span>, Security <span class="inactive">(CORS, user authentication, security headers)</span>
+        contents: JavaScript <span class="inactive">(React, Vue.js)</span>, modern CSS strategies, client-side security, performance optimizations.
       - heading: Networking and Hosting
-        contents: Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways)</span>, AWS <span class="inactive">(EC2, EKS, IAM, Lambda, SQS)</span>, CDN <span class="inactive">(CloudFront, Akamai, CDNetworks)</span>, web servers <span class="inactive">(Nginx, Apache)</span>
-      - heading: Data storage and Security
-        contents: Databases <span class="inactive">(RDS, Postgres, SQL, MongoDB)</span>. Data Management <span class="inactive">(replication, backups, remote access)</span>. Authentication and security <span class="inactive">(OAuth, JWT, certs and public-private key encryption)</span>. Secret management <span class="inactive">(storage, rotations, issuing)</span>
+        contents: Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways, SSL and encryption)</span>, Certified AWS Solutions Architect, distributed caching <span class="inactive">(CloudFront, Akamai, Redis)</span>, web servers <span class="inactive">(Nginx, Apache)</span>
+      - heading: Data and Security
+        contents: Databases <span class="inactive">(RDS, Postgres, SQL, MongoDB)</span>. Data Management <span class="inactive">(replication, backups, remote access, encryption)</span>. Authentication and security <span class="inactive">(IAM, OAuth, JWT, certs and public-private key encryption)</span>. Secret management <span class="inactive">(Vault, SSM)</span>

@@ -1,31 +1,41 @@
 companies:
-  - name: <br/>NewsUK <span class="inactive">- 9 months</span>
+  - name: CloudMargin <span class="inactive">- 3 months</span>
     projects:
-      - name: Audio platform for Wireless Digital radio stations and Times Radio
-        role: Principal Engineer
-        date: "Jun '19 - Mar '20"
+      - name: Messaging and calculations for collateral management fintech product
+        role: Senior Engineer (Contract)
+        date: "Sep '20 - Dec '20"
         detail:
-          - Working in a large team, responsible for infrastructure, API development, data sync and migration
-          - Steering committee representative for the Wireless Digital programme
-          - Involved in deliverables including replatforming and cluster migration, API authentication, performance testing, contract testing and integration with several third-party services
-          - Responsible for creating solution proposals, architecture and sequence diagrams, and documenting after implementation
-          - Working with management to create, refine and prioritise backlog, and subsequently working with developers responsible for implementation
+          - Helped to scale existing backend systems for margin calls, ensuring performant resilient messaging and portfolio calculations.
+          - Lead a self-service model within the team for other engineering teams to follow within the organisation.
+          - Responsibilities included software development, creating solution architecture proposals, mentoring and coaching.
+          - Created several accepted proposals including remote development propositions, and automation to increase developer productivity.
+
+  - name: NewsUK <span class="inactive">- 1 year</span>
+    projects:
+      - name: Audio platform for Wireless Digital and Times Radio
+        role: Senior Backend Engineer (Contract)
+        date: "Jun '19 - Jul '20"
+        detail:
+          - Worked in a department of 30 people, lead multiple deliverables including replatforming and cluster migration, API authentication, performance testing, contract testing and integration with several third-party services.
+          - Was Responsible for creating solution proposals, technical documentation, and delivery of a scalable and resilient platform used by talkSPORT and Times Radio brands with highly variable traffic from web and mobile devices.
+          - Steering committee member within the wider organisation, representing the Wireless Digital programme, contributing to the technology strategy taken by NewsUK for performance, security, access and testing.
+          - Worked with management to create and prioritise backlog, coached team on Agile practices and mentored multiple junior developers.
 
   - name: Nexmo <span class="inactive">- 3 months</span>
     projects:
       - name: Developer portal for global API provider for SMS, voice and messaging
-        role: Senior Software Developer
+        role: Senior Software Developer (Contract)
         date: "Mar '19 - Jun '19"
         detail:
           - Developed onboarding pages, with interactive demos of Nexmo products
           - Increased first activity from 16% to 45% and first payments by 35% through AB testing
-          - Created reports on Nexmo API usage using multiple data sources
+          - Created reports on Nexmo API usage using CloudWatch, ELK, Google Analytics and 
           - Project was awarded Winner of 2019 DevPortal Best Onboarding award
 
   - name: eLife Sciences <span class="inactive">- 9 months</span>
     projects:
       - name: Open source submission platform for scientific papers
-        role: Senior Software Developer
+        role: Senior Software Developer (Contract)
         date: "Jun '18 - Mar '19"
         detail:
           - Lead developer of the London based team, working remotely with the Cambridge team.
@@ -35,7 +45,7 @@ companies:
   - name: <br/>NewsUK <span class="inactive">- 1+ years</span>
     projects:
       - name: Web and mobile platforms for The Times and The Sun
-        role: Node.js Engineer
+        role: Node.js Engineer (Contract)
         date: "April '17 - Jun '18"
         detail:
           - Led a team to create a serverless API handling customer's saved preferences. Conformed to GDPR, and managed project scope and delivery.

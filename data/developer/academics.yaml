@@ -1,9 +1,11 @@
 academics:
-  - description: Professional Scrum Master I
-    date: "Mar '17"
+  - description: BSc (2:1 Hons) Mathematics and Computing <span class=inactive>(University of London, Queen Mary)</span>
+    date: "Sep '11"
+  - description: BSkyB Software Engineering Graduate Academy
+    date: "Feb '12"
   - description: Oracle Java SE7 Certified Associate
     date: "Aug '12"
-  - description: BSkyB Software Engineering Academy
-    date: "Aug '11 - Feb '12"
-  - description: BSc (2:1 Hons) Mathematics and Computing <span class=inactive>(University of London, Queen Mary)</span>
-    date: "Sep '08 - '11"
+  - description: Professional Scrum Master I
+    date: "Mar '17"
+  - description: AWS Solutions Architect Associate
+    date: "Sep '20"
