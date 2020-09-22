@@ -1,15 +1,15 @@
 summary:
-  - detail: Software Engineer, Solutions Architect and Scrum Master with a passion for problem solving, engineering and working in high-performing teams. From working in several large industries including Media, Finance and Technology, I have helped architect and produce large scale platforms, starting as a Graduate Engineer to working as the Lead Developer for multiple teams. 
+  - detail: Senior Engineer with a passion for problem solving, engineering and working in high-performing teams. Certified as an AWS Solutions Architect and as a Scrum Master.<br/><br/> From working in several large industries including Media, Finance and Technology, I have helped architect and produce large scale platforms, starting as a Graduate Engineer to working as the Lead Developer for multiple teams. 
     list:
       - heading: Leadership
         contents: Solutions Architect <span class="inactive">(technical strategy, solution proposals, RFCs and governance, technical documentation)</span>, Management <span class="inactive">(Agile, interviewing and hiring, mentoring and leadership)</span>
       - heading: Server-side
-        contents: Node.js <span class="inactive">(Typescript, serverless, ES6, functional and OOP)</span>, Java <span class="inactive">(Core, Spring, OOP)</span> APIs <span class="inactive">(GraphQL, REST, queues, microservice architecture, serverless)</span>
+        contents: API development <span class="inactive">(microservice architecture, REST, queues, GraphQL, serverless)</span>, Node.js <span class="inactive">(Typescript, serverless, ES6, functional and OOP)</span>, Java <span class="inactive">(Core, Spring, OOP)</span> 
       - heading: DevOps
-        contents: Containerization <span class="inactive">(Docker, Kubernetes)</span>, Provisioning Infrastructure <span class="inactive">(CloudFormation, Terraform)</span>, Scripting, CI systems.
+        contents: Containerization <span class="inactive">(Docker, Kubernetes)</span>, Provisioning <span class="inactive">(CloudFormation, Terraform)</span>, Scripting, CI systems.
       - heading: Client-side
         contents: JavaScript <span class="inactive">(React, Vue.js)</span>, modern CSS strategies, client-side security, performance optimizations.
       - heading: Networking and Hosting
-        contents: Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways, SSL and encryption)</span>, Certified AWS Solutions Architect, distributed caching <span class="inactive">(CloudFront, Akamai, Redis)</span>, web servers <span class="inactive">(Nginx, Apache)</span>
+        contents: Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways, SSL and encryption)</span>, distributed caching <span class="inactive">(CloudFront, Akamai, Redis)</span>, web servers <span class="inactive">(Nginx, Apache)</span>
       - heading: Data and Security
         contents: Databases <span class="inactive">(RDS, Postgres, SQL, MongoDB)</span>. Data Management <span class="inactive">(replication, backups, remote access, encryption)</span>. Authentication and security <span class="inactive">(IAM, OAuth, JWT, certs and public-private key encryption)</span>. Secret management <span class="inactive">(Vault, SSM)</span>

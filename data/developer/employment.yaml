@@ -2,74 +2,57 @@ companies:
   - name: CloudMargin <span class="inactive">- 3 months</span>
     projects:
       - name: Messaging and calculations for collateral management fintech product
-        role: Senior Engineer (Contract)
+        role: Senior Engineer
         date: "Sep '20 - Dec '20"
         detail:
-          - Helped to scale existing backend systems for margin calls, ensuring performant resilient messaging and portfolio calculations.
-          - Lead a self-service model within the team for other engineering teams to follow within the organisation.
+          - Scaled and rewrote existing backend systems for margin calls as new clients were onboarded, ensuring performant resilient messaging and portfolio calculations.
+          - Created proposals towards building a self-service model for other engineering teams to follow within the organisation.
           - Responsibilities included software development, creating solution architecture proposals, mentoring and coaching.
-          - Created several accepted proposals including remote development propositions, and automation to increase developer productivity.
 
   - name: NewsUK <span class="inactive">- 1 year</span>
     projects:
       - name: Audio platform for Wireless Digital and Times Radio
-        role: Senior Backend Engineer (Contract)
+        role: Senior Engineer
         date: "Jun '19 - Jul '20"
         detail:
           - Worked in a department of 30 people, lead multiple deliverables including replatforming and cluster migration, API authentication, performance testing, contract testing and integration with several third-party services.
-          - Was Responsible for creating solution proposals, technical documentation, and delivery of a scalable and resilient platform used by talkSPORT and Times Radio brands with highly variable traffic from web and mobile devices.
+          - Responsible for creating solution proposals, technical documentation, and delivery of a scalable and resilient platform used by talkSPORT and Times Radio brands with highly variable traffic from web and mobile devices.
           - Steering committee member within the wider organisation, representing the Wireless Digital programme, contributing to the technology strategy taken by NewsUK for performance, security, access and testing.
           - Worked with management to create and prioritise backlog, coached team on Agile practices and mentored multiple junior developers.
 
-  - name: Nexmo <span class="inactive">- 3 months</span>
+  - name: YLD <span class="inactive">- 2 years</span>
     projects:
-      - name: Developer portal for global API provider for SMS, voice and messaging
-        role: Senior Software Developer (Contract)
-        date: "Mar '19 - Jun '19"
+      - name: Nexmo
+        role: Senior Software Developer
         detail:
-          - Developed onboarding pages, with interactive demos of Nexmo products
-          - Increased first activity from 16% to 45% and first payments by 35% through AB testing
-          - Created reports on Nexmo API usage using CloudWatch, ELK, Google Analytics and 
           - Project was awarded Winner of 2019 DevPortal Best Onboarding award
-
-  - name: eLife Sciences <span class="inactive">- 9 months</span>
-    projects:
-      - name: Open source submission platform for scientific papers
-        role: Senior Software Developer (Contract)
-        date: "Jun '18 - Mar '19"
+          - Developed onboarding pages, with interactive demos of Nexmo products
+          - Analysed Nexmo API usage using various data sources to create product requirements which lead to increased API usage from 16% to 45% and new payments by 35%
+      - name: eLife Sciences
+        role: Lead Developer
         detail:
-          - Lead developer of the London based team, working remotely with the Cambridge team.
-          - Responsible for technical planning and architecture, and adding non-functional work to the backlog.
+          - Lead developer of the London based team, responsible for technical planning and architecture.
           - Contributed to Pubsweet, an open source framework, attended several meetups with international contributors while representing the client.
-
-  - name: <br/>NewsUK <span class="inactive">- 1+ years</span>
-    projects:
-      - name: Web and mobile platforms for The Times and The Sun
-        role: Node.js Engineer (Contract)
-        date: "April '17 - Jun '18"
+      - name: The Times
+        role: Lead Developer
         detail:
-          - Led a team to create a serverless API handling customer's saved preferences. Conformed to GDPR, and managed project scope and delivery.
-          - Managed and delivered deeplinking across times.co.uk and native apps, including development of APIs to support the feature.
-          - Developed tooling within the new platform for automated load testing, logging, database migrations, backups and VPNs.
-          - Developed a public facing GraphQL API, running on lambdas
-          - Contributed to cross-platform React Native components for Web, iOS and Android, and public GraphQL API.
+          - Delivered deeplinking across times.co.uk and native app, a serverless API serving customer data, and a public facing API for The Times using TypeScript.
+          - Developed tooling used by the wider organisation including automated load testing, logging, database migrations, backups and VPNs.
+          - Contributed to cross-platform React Native components for Web, iOS and Android.
 
   - name: Net-A-Porter <span class="inactive">- 2 years</span>
     projects:
-      - name: Website and retail platform for The Outnet
-        role: Software Engineer
+      - role: Front-End Engineer
         date: "Jun '15 - Nov '16"
         detail:
-          - Developed product and listing pages for Outnet.com, as single-page apps, optimised for SEO
+          - Developed SEO, responsive, single page apps for the Outnet.com. Focused on performance, device and browser rendering and UX.
           - Created live style guide for Outnet.com, and created a framework for style guide development. Managed delivery and development inluding integration across the wider organisation.
-          - Contributed toward a CMS system for the Outnet.com homepage and campaign pages
 
   - name: BSkyB <span class="inactive">- 3+ years</span>
     projects:
-      - name: Order Tracking, Online Billing and MCS
-        role: Associate Software Developer to Software Engineer
+      - role: Graduate Developer to Software Engineer
         date: "Sep '11 - Jan '15"
         detail: 
-          - Site for customers to track their order, cancellations, upgrades and appointments.
-          - Redesigned the online bill to make the bill more accessible and easier to understand by displaying the most important information, and to use analytics to target problems to address.
-          - Created dynamic web services and a RESTful API for internal clients for customer and product data, accessed through databases and legacy services.
+          - Graduated through the Sky Software Engineering Academy, becoming a certified Java developer through Oracle.
+          - Worked on various projects, including order tracking, online billing, and multi-channel services.
+          - Created and contributed towards all levels of the technology estate at Sky, including mobile apps, responsive websites and design systems, API development, business intelligence and analytics.  
