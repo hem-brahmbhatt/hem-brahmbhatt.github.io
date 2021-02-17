@@ -1,7 +1,14 @@
 companies:
-  - name: CloudMargin <span class="inactive">- 3 months</span>
+  - name: CloudMargin <span class="inactive">- 6 months</span>
     projects:
-      - name: Messaging and calculations for collateral management fintech product
+      - name: Payments and adjustments within collateral management
+        role: Team Lead
+        date: "Jan '21 - Mar '21"
+        detail:
+          - Managed a team of 7 engineers and QAs to deliver updates to payment services and deliver margin call adjustments as a feature.
+          - Ensured delivery of reliable features with minimal defects on schedule throughout my time, by championing testing, upfront analysis, accurate estimates, knowledge sharing and both internal and client-facing documentation
+          - Responsible for running all ceremonies including product demos, refinement/backlog grooming, standups and reporting sessions, training, mentoring and personal development. 
+      - name: Messaging and calculations within collateral management
         role: Senior Engineer
         date: "Sep '20 - Dec '20"
         detail:
