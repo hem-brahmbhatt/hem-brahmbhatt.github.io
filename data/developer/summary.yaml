@@ -2,7 +2,7 @@ summary:
   - detail: Tech lead with a passion for problem solving, engineering and working in high-performing teams. Certified as an AWS Solutions Architect and as a Scrum Master.<br/><br/> From working for global corporations in Media, Finance and Technology, I have helped architect and produce large scale platforms throughout my career as a leader, architect and an engineer. 
     list:
       - heading: Leadership
-        contents: Solutions Architect <span class="inactive">(solution proposals, audits, SRE, RFCs and governance, estimates, technical documentation)</span>, Tech Lead <span class="inactive">(speaker and presenter, Agile ceremonies, mentoring, interviewing, requirements gathering, reporting)</span>
+        contents: Solutions Architect <span class="inactive">(solution proposals, audits, SRE, RFCs and governance, estimates, technical documentation)</span>, Management <span class="inactive">(speaker and presenter, Agile, training and mentoring, line-management, interviewing, requirements gathering, reporting)</span>
       - heading: Server-side
         contents: API development <span class="inactive">(microservice architecture, REST, queues, GraphQL, serverless)</span>, Node.js <span class="inactive">(Typescript, serverless, ES6, functional and OOP)</span>, Java <span class="inactive">(Core, Spring, OOP)</span> 
       - heading: DevOps
