@@ -1,14 +1,14 @@
 summary:
-  - detail: Tech lead with a passion for problem solving, engineering and working in high-performing teams. Certified as an AWS Solutions Architect and as a Scrum Master.<br/><br/> From working for global corporations in Media, Finance and Technology, I have helped architect and produce large scale platforms throughout my career as a leader, architect and an engineer. 
+  - detail: Tech lead with a passion for problem solving and software engineering, working for global corporations in Finance, Media and Technology. <br/><br/>Certified as an AWS Solutions Architect and as a Scrum Master, I have helped architect and produce large scale platforms throughout my career as a leader, architect and an engineer. 
     list:
       - heading: Leadership
         contents: Solutions Architect <span class="inactive">(solution proposals, audits, SRE, RFCs and governance, estimates, technical documentation)</span>, Management <span class="inactive">(speaker and presenter, Agile, training and mentoring, line-management, interviewing, requirements gathering, reporting)</span>
       - heading: Server-side
-        contents: API development <span class="inactive">(microservice architecture, REST, queues, GraphQL, serverless)</span>, Node.js <span class="inactive">(Typescript, serverless, ES6, functional and OOP)</span>, Java <span class="inactive">(Core, Spring, OOP)</span> 
+        contents: API development <span class="inactive">(microservice architecture, REST, queues, GraphQL, serverless)</span>, Node.js <span class="inactive">(Typescript, ES6, Functional Programming and OOP)</span>, Java <span class="inactive">(Core, Spring, OOP)</span> 
       - heading: DevOps
-        contents: Containerization <span class="inactive">(Docker, Kubernetes)</span>, Provisioning <span class="inactive">(CloudFormation, Terraform)</span>, Scripting, CI systems.
+        contents: Containerization <span class="inactive">(Docker, Kubernetes)</span>, Provisioning <span class="inactive">(CloudFormation, Terraform)</span>, Monitoring (NewRelic, DataDog, CloudWatch, Kibana), Scripting, CI systems.
       - heading: Client-side
-        contents: JavaScript <span class="inactive">(React, Vue.js)</span>, modern CSS strategies, client-side security, performance optimizations.
+        contents: JavaScript <span class="inactive">(React, Next.js, Vue.js)</span>, modern CSS strategies, client-side security, front-end performance.
       - heading: Networking and Hosting
         contents: Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways, SSL and encryption)</span>, distributed caching <span class="inactive">(CloudFront, Akamai, Redis)</span>, web servers <span class="inactive">(Nginx, Apache)</span>
       - heading: Data and Security
