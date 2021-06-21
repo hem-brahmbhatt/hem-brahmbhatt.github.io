@@ -5,10 +5,11 @@ companies:
         role: Team Lead
         date: "Jan '21 - Jul '21"
         detail:
-          - Managed a team of 7 engineers and QAs, delivered support for SWIFT, and managed the rollout of manual adjustments for daily margin calls for all clients.
-          - Improved commitment vs delivery from 60% to 90%, refined upcoming work effectively with the team, line-managed and mentored all teammates, and reported directly to executive management.
-          - Founded and lead the RFC Committee, organising for several proposals to be approved, scheduled and implemented. 
-          - Founded and lead the Developer Community, organising knowledge sharing presentations, conferences and moderating discussions within the forum.
+          - Managed a team of 7 engineers and QAs, delivered UMR regulatory features, support for SWIFT payments, and manual adjustments to daily margin calls.
+          - Improved commitment vs delivery from 60% to 90%, line-managed and mentored all teammates, and reported to VP of Engineering.
+          - Founded and lead the RFC Committee, lead to technical projects being approved, scheduled and implemented. 
+          - Founded and lead the Developer Community, gave talks on technical topics, and helped organise an internal hackathon.
+          - Improved support process via a service catalogue, runbooks, and organised for tech teams to be accountable for their area. 
       - name: Messaging and calculations within collateral management
         role: Senior Engineer
         date: "Sep '20 - Dec '20"

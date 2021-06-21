@@ -2,14 +2,14 @@ summary:
   - detail: Tech lead with a passion for problem solving and software engineering, working for global corporations in Finance, Media and Technology. <br/><br/>Certified as an AWS Solutions Architect and as a Scrum Master, I have helped architect and produce large scale platforms throughout my career as a leader, architect and an engineer. 
     list:
       - heading: Leadership
-        contents: Solutions Architect <span class="inactive">(solution proposals, audits, SRE, RFCs and governance, estimates, technical documentation)</span>, Management <span class="inactive">(speaker and presenter, Agile, training and mentoring, line-management, interviewing, requirements gathering, reporting)</span>
+        contents: Solutions Architect <span class="inactive">(solution proposals, SRE, RFCs and governance, estimates, operational documentation)</span>, Management <span class="inactive">(leading initiatives, decision making, Agile, training and mentoring, line-management, speaker and presenter, interviewing, reporting)</span>
       - heading: Server-side
-        contents: API development <span class="inactive">(microservice architecture, REST, queues, GraphQL, serverless)</span>, Node.js <span class="inactive">(Typescript, ES6, Functional Programming and OOP)</span>, Java <span class="inactive">(Core, Spring, OOP)</span> 
-      - heading: DevOps
-        contents: Containerization <span class="inactive">(Docker, Kubernetes)</span>, Provisioning <span class="inactive">(CloudFormation, Terraform)</span>, Monitoring (NewRelic, DataDog, CloudWatch, Kibana), Scripting, CI systems.
+        contents: API development <span class="inactive">(microservice architecture, REST, queues, GraphQL, serverless)</span>, Languages <span class="inactive">(Node.js, Typescript, Java, Ruby)</span>
       - heading: Client-side
-        contents: JavaScript <span class="inactive">(React, Next.js, Vue.js)</span>, modern CSS strategies, client-side security, front-end performance.
-      - heading: Networking and Hosting
-        contents: Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways, SSL and encryption)</span>, distributed caching <span class="inactive">(CloudFront, Akamai, Redis)</span>, web servers <span class="inactive">(Nginx, Apache)</span>
-      - heading: Data and Security
-        contents: Databases <span class="inactive">(RDS, Postgres, SQL, MongoDB)</span>. Data Management <span class="inactive">(replication, backups, remote access, encryption)</span>. Authentication and security <span class="inactive">(IAM, OAuth, JWT, certs and public-private key encryption)</span>. Secret management <span class="inactive">(Vault, SSM)</span>
+        contents: Frameworks <span class="inactive">(React, Next.js, Vue.js)</span>, modern CSS strategies
+      - heading: DevOps
+        contents: Containerization <span class="inactive">(Docker, Kubernetes)</span>, Provisioning and CI <span class="inactive">(Terraform, Jenkins, CodeBuild, Circle)</span>, Monitoring <span class="inactive">(NewRelic, DataDog, CloudWatch, Kibana)</span>
+      - heading: Networking & Security
+        contents: Delivery and Caching <span class="inactive">(CloudFront, Akamai, Redis)</span>, Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways)</span> Authentication and security <span class="inactive">(IAM, OAuth, JWT, certs)</span>, Secret management <span class="inactive">(Vault, SSM)</span>
+      - heading: Data housing 
+        contents: Databases <span class="inactive">(RDS, Postgres, SQL, MongoDB)</span>, Data Management <span class="inactive">(replication, backups, remote access, encryption)</span>
