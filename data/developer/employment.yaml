@@ -1,66 +1,51 @@
 companies:
-  - name: CloudMargin <span class="inactive">- 1 year</span>
+  - name: <img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
     projects:
-      - name: Payments and adjustments within collateral management
-        role: Team Lead
-        date: "Jan '21 - Jul '21"
+      - role: Team Lead
+        name: Software consultancy, working with Uphold and Cloudmargin
+        date: 1+ year <span class="inactive">(Sep '20 - Dec '21)</span>
         detail:
-          - Managed a team of 7 engineers and QAs, delivered UMR regulatory features, support for SWIFT payments, and manual adjustments to daily margin calls.
-          - Improved commitment vs delivery from 60% to 90%, line-managed and mentored all teammates, and reported to VP of Engineering.
-          - Involved in roadmap planning and technical discussions, created an internal RFC Committee, lead to technical projects being approved, scheduled and implemented. 
-          - Involved in recruitment and training, founded and lead the Developer Community, gave talks on technical topics, and helped organise an internal hackathon.
-          - Improved support process via a service catalogue, runbooks, and organised for tech teams to be accountable for their area. 
-      - name: Messaging and calculations within collateral management
-        role: Senior Engineer
-        date: "Sep '20 - Dec '20"
-        detail:
-          - Scaled and rewrote existing backend systems for margin calls as new clients were onboarded, ensuring performant resilient messaging and portfolio calculations.
-          - Created proposals towards building a self-service model for other engineering teams to follow within the organisation.
-          - Responsibilities included software development, creating solution architecture proposals, mentoring and coaching.
+          - Developed risk assessment services within Uphold's back-office team, which perform crypto transaction screening, fraud & anti-money laundering checks, and identity verification. 
+          - Created solution architecture proposals, rewrote existing backend systems for margin calls to scale effectively for future use, delivered UMR regulatory features, support for SWIFT payments, and manual adjustments to daily margin calls.
+          - Managed a team of 7 engineers and QAs within CloudMargin, involved in roadmap planning and technical discussions, improved commitment vs delivery from 60% to 90%, line-managed and mentored all teammates, and reported to VP of Engineering.
+          - Created several initiatives, including an internal RFC Committee within CloudMargin, founded and lead the Developer Community, and contributed towards organising an internal hackathon.
 
-  - name: NewsUK <span class="inactive">- 1 year</span>
+  - name: <img class="company-logo" id="newsuk" src="assets/news-uk-logo.jpg" alt="NewsUK">
     projects:
       - name: Audio platform for Wireless Digital and Times Radio
         role: Senior Engineer
-        date: "Jun '19 - Jul '20"
+        date: 1 year <span class="inactive">(Jun '19 - Jul '20)</span>
         detail:
           - Worked in a department of 30 people, lead multiple deliverables including replatforming and cluster migration, API authentication, performance testing, contract testing and integration with several third-party services.
           - Responsible for creating solution proposals, technical documentation, and delivery of a scalable and resilient platform used by talkSPORT and Times Radio brands with highly variable traffic from web and mobile devices.
           - Steering committee member within the wider organisation, representing the Wireless Digital programme, contributing to the technology strategy taken by NewsUK for performance, security, access and testing.
           - Worked with management to create and prioritise backlog, coached team on Agile practices and mentored multiple junior developers.
 
-  - name: YLD <span class="inactive">- 2 years</span>
+  - name: <br><br><img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
     projects:
-      - name: Nexmo
-        role: Senior Software Developer
-        detail:
-          - Project was awarded Winner of 2019 DevPortal Best Onboarding award
-          - Developed onboarding pages, with interactive demos of Nexmo products
-          - Analysed Nexmo API usage using various data sources to create product requirements which lead to increased API usage from 16% to 45% and new payments by 35%
-      - name: eLife Sciences
-        role: Lead Developer
-        detail:
-          - Lead developer of the London based team, responsible for technical planning and architecture.
-          - Contributed to Pubsweet, an open source framework, attended several meetups with international contributors while representing the client.
-      - name: The Times
-        role: Lead Developer
+      - role: Senior Software Developer
+        name: Software consultancy, working with The Times and Nexmo
+        date: 2+ years <span class="inactive">(Feb '17 - May '19)</span>
         detail:
           - Delivered deeplinking across times.co.uk and native app, a serverless API serving customer data, and a public facing API for The Times using TypeScript.
-          - Developed tooling used by the wider organisation including automated load testing, logging, database migrations, backups and VPNs.
-          - Contributed to cross-platform React Native components for Web, iOS and Android.
+          - Developed onboarding pages, reviewing conversion metrics iteratively to form requirements which directly lead to increased subscriptions. 
+          - Developed bespoke tooling for clients for automated load testing, logging, database migrations, backups and VPNs.
+          - Contributed to Pubsweet, an open source framework, attended several meetups with international contributors while representing eLife Sciences.
 
-  - name: Net-A-Porter <span class="inactive">- 2 years</span>
+  - name: <img class="company-logo" id="net-a-porter" src="assets/net-a-porter-logo.webp" alt="Net-A-Porter">
     projects:
       - role: Front-End Engineer
-        date: "Jun '15 - Nov '16"
+        name: Luxury fashion online retailer
+        date: 1+ years <span class="inactive">(Jun '15 - Nov '16)</span>
         detail:
           - Developed SEO, responsive, single page apps for the Outnet.com. Focused on performance, device and browser rendering and UX.
           - Created live style guide for Outnet.com, and created a framework for style guide development. Managed delivery and development inluding integration across the wider organisation.
 
-  - name: BSkyB <span class="inactive">- 3+ years</span>
+  - name: <img class="company-logo" id="bskyb" src="assets/sky-logo.png" alt="BSkyB">
     projects:
-      - role: Graduate Developer to Software Engineer
-        date: "Sep '11 - Jan '15"
+      - role: Associate Developer
+        name: Digital broadcaster
+        date: 3+ years <span class="inactive">(Sep '11 - Jan '15)</span>
         detail: 
           - Graduated through the Sky Software Engineering Academy, becoming a certified Java developer through Oracle.
           - Worked on various projects, including order tracking, online billing, and multi-channel services.

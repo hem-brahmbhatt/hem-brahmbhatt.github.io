@@ -3,27 +3,31 @@
       <h2>{{title}}</h2>
 
       {{#each companies}}
-        <ul class="skycom-12 project">
-          <li><strong><p class="intro skycom-8">{{name}}</p></strong></li>
-        </ul>
-        {{#each projects}}
+        <div class="company">
           <ul class="skycom-12 project">
-            <li><strong><p class="intro smaller  skycom-8">{{date}}</p></strong></li>
-            {{#if role}}
-            <li><strong><span class="skycom-3 alpha">Role</span><span class="skycom-9">{{role}}</span></strong></li>
-            {{/if}}
-            <li><strong><span class="skycom-3 alpha">Project</span><span class="skycom-9">{{name}}</span></strong></li>
-            {{#if tech}}
-            <li><strong><span class="skycom-3 alpha">Technologies</span><span class="skycom-9">{{tech}}</span></strong></li>
-            {{/if}}
-            {{#if practices}}
-              <li><strong><span class="skycom-3 alpha">Practices</span><span class="skycom-9">{{practices}}</span></strong></li>
-            {{/if}}
+            <li><strong><p class="intro skycom-8">{{name}}</p></strong></li>
           </ul>
-          <p>{{description}}</p>
-          <ul class="bullet  skycom-12">
-            {{#each detail}} <li>{{this}}</li> {{/each}}
-          </ul>
+          {{#each projects}}
+            <ul class="skycom-12 project">
+              {{#if name}}
+              <li><strong><span class="skycom-3 alpha">Project</span><span class="skycom-9">{{name}}</span></strong></li>
+              {{/if}}
+              {{#if role}}
+              <li><strong><span class="skycom-3 alpha">Role</span><span class="skycom-9">{{role}}</span></strong></li>
+              {{/if}}
+              <li><strong><span class="skycom-3 alpha">Date</span><span class="skycom-9">{{date}}</span></strong></li>
+              {{#if tech}}
+              <li><strong><span class="skycom-3 alpha">Technologies</span><span class="skycom-9">{{tech}}</span></strong></li>
+              {{/if}}
+              {{#if practices}}
+                <li><strong><span class="skycom-3 alpha">Practices</span><span class="skycom-9">{{practices}}</span></strong></li>
+              {{/if}}
+            </ul>
+            <p>{{description}}</p>
+            <ul class="bullet  skycom-12">
+              {{#each detail}} <li>{{this}}</li> {{/each}}
+            </ul>
+          </div>
         {{/each}}
       {{/each}}
     </div>

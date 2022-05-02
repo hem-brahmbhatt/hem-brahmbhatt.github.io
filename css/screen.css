@@ -30,3 +30,7 @@ p {
 #summary p {
   margin: 0.5em 0
 }
+
+img.company-logo {
+  height: 1.5em
+}
