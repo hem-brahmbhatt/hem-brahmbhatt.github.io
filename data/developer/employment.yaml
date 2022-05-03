@@ -35,7 +35,7 @@ companies:
   - name: <img class="company-logo" id="net-a-porter" src="assets/net-a-porter-logo.webp" alt="Net-A-Porter">
     projects:
       - role: Front-End Engineer
-        name: Luxury fashion online retailer
+        name: Luxury fashion online retailer 
         date: 1+ years <span class="inactive">(Jun '15 - Nov '16)</span>
         detail:
           - Developed SEO, responsive, single page apps for the Outnet.com. Focused on performance, device and browser rendering and UX.
