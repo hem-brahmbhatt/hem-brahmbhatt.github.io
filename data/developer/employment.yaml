@@ -23,7 +23,7 @@ companies:
 
   - name: <br><br><img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
     projects:
-      - role: Senior Software Developer
+      - role: Node.js Engineer
         name: Software consultancy, working with The Times and Nexmo
         date: 2+ years <span class="inactive">(Feb '17 - May '19)</span>
         detail:
