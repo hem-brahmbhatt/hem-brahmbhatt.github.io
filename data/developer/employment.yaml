@@ -30,7 +30,7 @@ companies:
           - Delivered deeplinking across times.co.uk and native app, a serverless API serving customer data, and a public facing API for The Times using TypeScript.
           - Developed onboarding pages, reviewing conversion metrics iteratively to form requirements which directly lead to increased subscriptions. 
           - Developed bespoke tooling for clients for automated load testing, logging, database migrations, backups and VPNs.
-          - Contributed to Pubsweet, an open source framework, attended several meetups with international contributors while representing eLife Sciences.
+          - Contributed to Pubsweet, an open source framework for building state-of-the-art publishing platforms, attended several meetups with international contributors while representing eLife Sciences.
 
   - name: <img class="company-logo" id="net-a-porter" src="assets/net-a-porter-logo.webp" alt="Net-A-Porter">
     projects:
