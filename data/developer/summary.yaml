@@ -1,12 +1,12 @@
 summary:
-  - detail: Software engineer with a passion for problem solving and software engineering, working for global corporations in Finance, Media and Technology. <br/><br/>Certified as an AWS Solutions Architect and as a Scrum Master, I have helped architect and produce large scale platforms throughout my career as a leader, architect and an engineer. 
+  - detail: Software Engineering Lead with a passion for problem solving and software engineering, working for global corporations in Finance, Media and Technology. <br/><br/>Certified as an AWS Solutions Architect and as a Scrum Master, I have helped architect and produce large scale platforms throughout my career as a leader, architect and an engineer. 
     list:
       - heading: Leadership
         contents: Solutions Architect <span class="inactive">(solution proposals, SRE, RFCs and governance, estimates, operational documentation, development tools)</span>, Management <span class="inactive">(roadmapping, technical analysis, Agile, recruitment and training, line-management and mentoring, presenting talks and reporting)</span>
       - heading: Server-side
         contents: API development <span class="inactive">(microservices, REST, RPC, queues, GraphQL, serverless)</span>, Languages <span class="inactive">(Node.js, Typescript, Java, Python)</span>
       - heading: Client-side
-        contents: Frameworks <span class="inactive">(React, Next.js, Vue.js)</span>, modern CSS strategies
+        contents: Frameworks <span class="inactive">(React, Next.js, Vue.js)</span>, CSS systems <span class="inactive">(atomic, BEM, JS templates, layout, animations)</span>, SPA <span class="inactive">(performance, SEO, UX, accessibility)</span>
       - heading: DevOps
         contents: Containerization <span class="inactive">(Docker, Kubernetes)</span>, Provisioning and CI <span class="inactive">(Terraform, Jenkins, CodeBuild, Circle)</span>, Monitoring <span class="inactive">(NewRelic, DataDog, CloudWatch, Kibana)</span>
       - heading: Networking & Security
