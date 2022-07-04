@@ -4,12 +4,12 @@ summary:
       - heading: Leadership
         contents: Solutions Architect <span class="inactive">(solution proposals, SRE, RFCs and governance, estimates, operational documentation, development tools)</span>, Management <span class="inactive">(roadmapping, technical analysis, Agile, recruitment and training, line-management and mentoring, presenting talks and reporting)</span>
       - heading: Server-side
-        contents: API development <span class="inactive">(microservices, REST, RPC, queues, GraphQL, serverless)</span>, Languages <span class="inactive">(Node.js, Typescript, Java, Python)</span>
+        contents: Distributed Computing <span class="inactive">(queues, event streaming, gRPC, HTTP, WebSocket)</span>, Cloud Computing (AWS, serverless, Kubernetes), API development <span class="inactive">(microservices, Node.js, GraphQL, serverless)</span>, Languages <span class="inactive">(Typescript, Java, Bash, Ruby)</span>
       - heading: Client-side
-        contents: Frameworks <span class="inactive">(React, Next.js, Vue.js)</span>, CSS systems <span class="inactive">(atomic, BEM, JS templates, layout, animations)</span>, SPA <span class="inactive">(performance, SEO, UX, accessibility)</span>
+        contents: JavaScript <span class="inactive">(React, Next.js, Vue.js)</span>, CSS systems <span class="inactive">(atomic, BEM, JS templates, layout, animations)</span>, SPA <span class="inactive">(performance, SEO, UX, accessibility)</span>
       - heading: DevOps
-        contents: Containerization <span class="inactive">(Docker, Kubernetes)</span>, Provisioning and CI <span class="inactive">(Terraform, Jenkins, CodeBuild, Circle)</span>, Monitoring <span class="inactive">(NewRelic, DataDog, CloudWatch, Kibana)</span>
+        contents: Containerisation <span class="inactive">(docker, Kubernetes)</span>, Configuration and Infrastructure <span class="inactive">(Terraform, Ansible, CloudFormation)</span>, Monitoring <span class="inactive">(NewRelic, DataDog, CloudWatch, Kibana)</span>
       - heading: Networking & Security
         contents: Delivery and Caching <span class="inactive">(CloudFront, Akamai, Redis)</span>, Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways)</span> Authentication and security <span class="inactive">(IAM, OAuth, JWT, certs)</span>, Secret management <span class="inactive">(Vault, SSM)</span>
       - heading: Data housing 
-        contents: Databases <span class="inactive">(RDS, Postgres, SQL, MongoDB)</span>, Data Management <span class="inactive">(replication, backups, remote access, encryption)</span>
+        contents: Databases <span class="inactive">(RDS, Postgres, SQL, MongoDB, Redis)</span>, Data Ops <span class="inactive">(replication, backups, remote access, encryption)</span>
