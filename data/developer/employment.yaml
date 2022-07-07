@@ -1,52 +1,91 @@
 companies:
   - name: <img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
     projects:
-      - role: Team Lead
-        name: Software consultancy, working with Uphold and Cloudmargin
-        date: 1+ year <span class="inactive">(Sep '20 - Dec '21)</span>
+      - role: Senior Software Engineer
+        name: Uphold, a digital wallet and global multi-asset trading platform
+        date: 5 months <span class="inactive">(Aug '21 - Dec '21)</span>
+        detail: 
+          - Developed risk assessment services within Uphold's back-office team with features including<br/> 
+            - Performing crypto transaction screening<br/>
+            - Fraud & anti-money laundering checks<br/>
+            - Identity verification<br/>
+          - Collaborated with the Principal Architect to design an RFC process for the engineering department.
+          - Lead several initiatives by YLD engineers for the client, including an onboarding program for engineers, and local development automation.
+      - role: Engineering Team Lead
+        name: Cloudmargin, a collateral management platform cloud app
+        date: 1+ year <span class="inactive">(Jul '20 - Jul '21)</span>
         detail:
-          - Developed risk assessment services within Uphold's back-office team, which perform crypto transaction screening, fraud & anti-money laundering checks, and identity verification. 
-          - Created solution architecture proposals, rewrote existing backend systems for margin calls to scale effectively for future use, delivered UMR regulatory features, support for SWIFT payments, and manual adjustments to daily margin calls.
-          - Managed a team of 7 engineers and QAs within CloudMargin, involved in roadmap planning and technical discussions, improved commitment vs delivery from 60% to 90%, line-managed and mentored all teammates, and reported to VP of Engineering.
+          - Managed a team of 6 engineers and QAs within CloudMargin, line-managed and mentored all teammates, and reported to VP of Engineering
+          - Hosting high-level roadmap planning and low-level technical discussions, improved commitment vs delivery from 60% to 90%, and acted as advisor to other team leads in lieu of a principal engineer.
+          - Created several solution architecture proposals and worked with engineers and QAs through to delivery<br/>
+            - Rewrite backend systems for margin calls to scale effectively for an upcoming increase in clients<br/>
+            - UMR regulatory features<br/>
+            - SWIFT payment support<br/>
+            - Manual adjustments to daily margin calls<br/>
           - Created several initiatives, including an internal RFC Committee within CloudMargin, founded and lead the Developer Community, and contributed towards organising an internal hackathon.
+          - Collaborated with the SRE team to create a self-service model for engineering teams to follow, including testing, first use, and integrating the process within external teams to my own.
 
-  - name: <img class="company-logo" id="newsuk" src="assets/news-uk-logo.jpg" alt="NewsUK">
+  - name: <br/><br/><img class="company-logo" id="newsuk" src="assets/news-uk-logo.jpg" alt="NewsUK">
     projects:
       - name: Audio platform for Wireless Digital and Times Radio
         role: Senior Engineer
         date: 1 year <span class="inactive">(Jun '19 - Jul '20)</span>
         detail:
-          - Worked in a department of 30 people, lead multiple deliverables including replatforming and cluster migration, API authentication, performance testing, contract testing and integration with several third-party services.
-          - Responsible for creating solution proposals, technical documentation, and delivery of a scalable and resilient platform used by talkSPORT and Times Radio brands with highly variable traffic from web and mobile devices.
-          - Steering committee member within the wider organisation, representing the Wireless Digital programme, contributing to the technology strategy taken by NewsUK for performance, security, access and testing.
-          - Worked with management to create and prioritise backlog, coached team on Agile practices and mentored multiple junior developers.
+          - Senior engineer in a department of 30, responsible for infrastructure, API development and out-of-hours support, for the Wireless Audio Platform
+          - Developed GraphQL microservices, API authentication, contract testing and integration with upstream services and data stores
+          - Lead an initiative to establish SLAs, and wrote automation and alerting tools for our scaling strategy to meet SLOs
+          - Provisioned and migrated kubernetes, wrote infrastructure as code provisioning compute, capacity plans, networking, database, configuration, CDN, CI, monitoring alerting tools and jumpboxes
+          - Created solution proposals addressing scaling and cost, security, operations, architecture, and wrote API and operational documentation including runbooks
+          - Represented engineering in high-level roadmap planning meetings with non-technical stakeholders, and subsequently working with developers responsible for implementation
 
-  - name: <br><br><img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
+  - name: <br/><br/><img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
     projects:
+      - role: Team Lead
+        name: The Times, and eLife Sciences
+        date: 1+ years <span class="inactive">(Dec '17 - May '19)</span>
+        detail:
+          - Consulted for NewsUK and eLife Sciences in a Tech Lead capacity.
+          - Delivered and showcased UI components, public and private APIs, infrastructure, operational tooling and automation for all clients.
+          - Provided Agile coaching, mentoring of software engineers, and planning and technical direction for clients.
+          - Provided talks for London Node.js Meetup, organised by YLD.
+          - Contributed to Pubsweet, an open source framework for building state-of-the-art publishing platforms, attended several meetups with international contributors while representing eLife Sciences.
+
       - role: Node.js Engineer
-        name: Software consultancy, working with The Times and Nexmo
-        date: 2+ years <span class="inactive">(Feb '17 - May '19)</span>
+        name: NewsUK and Nexmo
+        date: 9 months <span class="inactive">(Apr '17 - Dec '17)</span>
         detail:
           - Delivered deeplinking across times.co.uk and native app, a serverless API serving customer data, and a public facing API for The Times using TypeScript.
           - Developed onboarding pages, reviewing conversion metrics iteratively to form requirements which directly lead to increased subscriptions. 
           - Developed bespoke tooling for clients for automated load testing, logging, database migrations, backups and VPNs.
-          - Contributed to Pubsweet, an open source framework for building state-of-the-art publishing platforms, attended several meetups with international contributors while representing eLife Sciences.
 
-  - name: <img class="company-logo" id="net-a-porter" src="assets/net-a-porter-logo.webp" alt="Net-A-Porter">
+  - name: <br/><br/><img class="company-logo" id="net-a-porter" src="assets/net-a-porter-logo.webp" alt="Net-A-Porter">
     projects:
       - role: Front-End Engineer
         name: Luxury fashion online retailer 
         date: 1+ years <span class="inactive">(Jun '15 - Nov '16)</span>
         detail:
-          - Developed SEO, responsive, single page apps for the Outnet.com. Focused on performance, device and browser rendering and UX.
-          - Created live style guide for Outnet.com, and created a framework for style guide development. Managed delivery and development inluding integration across the wider organisation.
+          - Developed product and listing pages for Outnet.com, as single-page apps, optimised for SEO
+          - Created live style guide for Outnet.com, and created a framework for style guide development.
+          - Managed delivery and development including integration across the wider organisation.
+          - Contributed toward a CMS system for the Outnet.com homepage and campaign pages
 
-  - name: <img class="company-logo" id="bskyb" src="assets/sky-logo.png" alt="BSkyB">
+  - name: <br/><br/><br/><img class="company-logo" id="bskyb" src="assets/sky-logo.png" alt="BSkyB">
     projects:
-      - role: Associate Developer
-        name: Digital broadcaster
-        date: 3+ years <span class="inactive">(Sep '11 - Jan '15)</span>
+      - role: Software Developer
+        date: 1+ years <span class="inactive">(Aug '13 - Jan '15)</span>
         detail: 
-          - Graduated through the Sky Software Engineering Academy, becoming a certified Java developer through Oracle.
-          - Worked on various projects, including order tracking, online billing, and multi-channel services.
-          - Created and contributed towards all levels of the technology estate at Sky, including mobile apps, responsive websites and design systems, API development, business intelligence and analytics.  
+          - Developed a redesigned order tracking journey for customers to track their order, cancellations, upgrades and appointments from concept to production.
+          - Developed a redesigned online bill section of Sky, focusing on accessibility
+          - Developed web components for the shared style guide used by the department
+          - Helped to develop the iOS and Android Sky MyAccount app
+      - role: Associate Software Developer
+        date: 1+ years <span class="inactive">(Feb '12 - Aug '13)</span>
+        detail: 
+          - Part of the Multi-Channel Services team, I helped develop Java based APIs used by various departments across Sky, using frameworks including Spring, Maven, JUnit, MySQL, SVN
+          - Services provided used async communication using MQ, and synchronous communication using HTTP
+      - role: Graduate Software Developer
+        date: 6 months <span class="inactive">(Aug '11 - Feb '12)</span>
+        detail: 
+          - Accepted into the Sky Software Engineering Academy for graduates, which provided offsite training and qualification routes, rotation across Sky departments, and mentorship.
+          - Helped develop an iPhone and iPad application for MyAccounts team. Allowed users to view their account information and book appointments on their mobile. Introduced Agile and automated testing/building to native iOS developers at Sky.
+          - Developed a browser based dashboard for the Sky iD team. Displayed errors in their services in graphs and tables with server information. Also displayed journey maps for services in tree diagrams, showing which back-end services were down or performing slowly.
