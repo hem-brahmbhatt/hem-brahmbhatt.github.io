@@ -16,6 +16,9 @@
     "gulp-rename": "^1.2.2",
     "js-yaml": "^3.6.1"
   },
+  "overrides": {
+    "graceful-fs": "^4.2.11"
+  },
   "scripts": {
     "build": "gulp",
     "watch": "git ls-files -cdmo --exclude-standard | entr -s 'npm run build'"

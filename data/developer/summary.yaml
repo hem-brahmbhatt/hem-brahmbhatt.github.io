@@ -1,15 +1,15 @@
 summary:
-  - detail: Engineering Lead who's worked with companies the likes of NewsUK, Net-A-Porter and Sky. As a leader I have managed high-powered engineering teams, mentored senior engineers, tempered year long technical roadmaps, and established modern development processes across departments. As an engineer I have technically designed and created large scale platforms from mobile apps and web applications, provisioned and managed cloud infrastructure, and championed SRE methodologies within my teams 
+  - detail: Software Engineer with 7 years experience developing products and infrastructure for Bloomberg, The Times, Net-A-Porter and Sky. As an engineer I have technically designed and created large scale platforms from native apps, mobile apps and web applications, provisioned and managed cloud infrastructure, participated in working groups to champion developer tooling, accessibility, performance and testing methodologies within engineering departments.<p>Team lead with 3 years experience managing engineering teams for YLD and Sky. Mentored senior engineers, tempered year long technical roadmaps, and established modern development practices.  
     list:
       - heading: Leadership
-        contents: Solutions Architect <span class="inactive">(solution proposals, SRE, RFCs and governance, estimates, operational documentation, development tools)</span>, Management <span class="inactive">(roadmapping, technical analysis, Agile, recruitment and training, line-management and mentoring, presenting talks and reporting)</span>
+        contents: Solutions Architect <span class="inactive">(diagrams, RFCs and governance, estimates, runbooks and documentation, developer tooling)</span>, Management <span class="inactive">(delivery roadmapping, technical analysis, Agile, recruitment and training, line-management and mentoring, presenting talks and reporting)</span>
       - heading: Server-side
-        contents: Distributed Computing <span class="inactive">(queues, event streaming, gRPC, HTTP, WebSocket)</span>, Cloud Computing (AWS, serverless, Kubernetes), API development <span class="inactive">(microservices, Node.js, GraphQL, serverless)</span>, Languages <span class="inactive">(Typescript, Java, Bash, Ruby)</span>
+        contents: Distributed Computing <span class="inactive">(queues, event streaming, gRPC, HTTP, workers)</span>, Cloud Computing <span class="inactive">(AWS, Kubernetes)</span>, API development <span class="inactive">(Node.js, GraphQL, request-response, publish-subscribe)</span>, Languages <span class="inactive">(Typescript, Java, Bash, Ruby)</span>
       - heading: Client-side
         contents: JavaScript <span class="inactive">(React, Next.js, Vue.js)</span>, CSS systems <span class="inactive">(atomic, BEM, JS templates, layout, animations)</span>, SPA <span class="inactive">(performance, SEO, UX, accessibility)</span>
-      - heading: DevOps
+      - heading: DevOps and Tooling
         contents: Containerisation <span class="inactive">(docker, Kubernetes)</span>, Configuration and Infrastructure <span class="inactive">(Terraform, Ansible, CloudFormation)</span>, Monitoring <span class="inactive">(NewRelic, DataDog, CloudWatch, Kibana)</span>
       - heading: Networking & Security
         contents: Delivery and Caching <span class="inactive">(CloudFront, Akamai, Redis)</span>, Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways)</span> Authentication and security <span class="inactive">(IAM, OAuth, JWT, certs)</span>, Secret management <span class="inactive">(Vault, SSM)</span>
       - heading: Data housing 
-        contents: Databases <span class="inactive">(RDS, Postgres, SQL, MongoDB, Redis)</span>, Data Ops <span class="inactive">(replication, backups, remote access, encryption)</span>
+        contents: Databases <span class="inactive">(SQL, Postgres, RDS, MongoDB, Redis)</span>, Data Ops <span class="inactive">(replication, backups, remote access, encryption)</span>

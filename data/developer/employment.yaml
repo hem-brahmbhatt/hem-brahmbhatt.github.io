@@ -1,11 +1,22 @@
 companies:
+  - name: <img class="company-logo" id="bloomberg" src="assets/bloomberg-logo.png" alt="Bloomberg">
+    projects:
+      - role: Senior Software Engineer
+        name: "{PM} on the Bloomberg Terminal, portfolio managing software"
+        date: 1+ year <span class="inactive">(Sep '22 - May '24)</span>
+        detail: 
+          - Developed new worksheet columns that can be added to {PM}, such as security classifications, position weights. Involved writing an RFC for custom column titles, autocomplete and button UI elements, and sourcing data from BAS services.
+          - Rewrote a data pipeline to improvement performance of multifund worksheets.
+          - Member of several working groups, helping to organise talks, contribute towards coding initiatives, including:<br/> 
+            - AIM JS working group<br/>
+            - PM Code Quality and Best Practices
   - name: <img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
     projects:
       - role: Senior Software Engineer
         name: Uphold, a digital wallet and global multi-asset trading platform
         date: 5 months <span class="inactive">(Aug '21 - Dec '21)</span>
         detail: 
-          - Developed risk assessment services within Uphold's back-office team with features including<br/> 
+          - Developed risk assessment services within Uphold's back-office team with features including:<br/> 
             - Performing crypto transaction screening<br/>
             - Fraud & anti-money laundering checks<br/>
             - Identity verification<br/>
@@ -71,11 +82,14 @@ companies:
 
   - name: <br/><br/><br/><img class="company-logo" id="bskyb" src="assets/sky-logo.png" alt="BSkyB">
     projects:
-      - role: Software Developer
-        date: 1+ years <span class="inactive">(Aug '13 - Jan '15)</span>
+      - role: Lead Engineer
+        date: 8 months <span class="inactive">(Apr '14 - Jan '16)</span>
         detail: 
-          - Developed a redesigned order tracking journey for customers to track their order, cancellations, upgrades and appointments from concept to production.
-          - Developed a redesigned online bill section of Sky, focusing on accessibility
+          - Redesigned order tracking journey for customers to track their order, cancellations, upgrades and appointments from concept to production.
+      - role: Software Developer
+        date: 8 months <span class="inactive">(Aug '13 - Apr '14)</span>
+        detail: 
+          - Redesigned online bill section of Sky, focusing on accessibility
           - Developed web components for the shared style guide used by the department
           - Helped to develop the iOS and Android Sky MyAccount app
       - role: Associate Software Developer
