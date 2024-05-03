@@ -5,7 +5,7 @@ companies:
         name: "{PM} - Bloomberg Terminal application - investment portfolio managing software"
         date: 1 year 8 months <span class="inactive">(Sep '22 - May '24)</span>
         detail: 
-          - Developed new worksheet columns for {PM}. Involved writing an RFC for custom column titles, writing autocomplete and button UI elements, sourcing data from BAS services for "Security Classification" columns and writing formulae to calculate values for "Position Weight" columns.
+          - Developed new worksheet columns for {PM}. Involved writing an RFC for custom column titles, writing autocomplete and button UI elements, sourcing data from BAS services for "Security Classification" columns and writing formulae to calculate values for "Position Weight" columns for all asset types, i.e. Fixed Income, Equity, CCY.
           - Rewrote a complex data pipeline to improve performance of cross-account worksheets, allowing firms to load 3x the number of accounts.
           - Member of working groups including:<br/> 
             - Asset Investment Management - JS working group, helping to organise talks<br/>
