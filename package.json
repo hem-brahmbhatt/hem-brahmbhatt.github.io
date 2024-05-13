@@ -11,6 +11,7 @@
   "license": "UNLICENCED",
   "homepage": "https://github.com/damnhipster/technical-cv#readme",
   "dependencies": {
+    "create-cloudflare": "^2.21.1",
     "gulp": "^3.9.1",
     "gulp-compile-handlebars": "^0.6.1",
     "gulp-rename": "^1.2.2",
