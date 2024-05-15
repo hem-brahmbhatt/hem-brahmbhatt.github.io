@@ -1,18 +1,30 @@
 companies:
   - name: <img class="company-logo" id="bloomberg" src="assets/bloomberg-logo.png" alt="Bloomberg">
     projects:
-      - role: Senior Software Engineer (IC)
-        name: "{PM} - Bloomberg Terminal application - investment portfolio managing software"
+      - role: Senior Software Engineer
+        name: Bloomberg Terminal
+        description: "{PM}, an institutional portfolio managing software for viewing and managing positions"
         date: 1 year 8 months <span class="inactive">(Sep '22 - May '24)</span>
         detail: 
-          - Developed new worksheet columns for {PM}. Involved writing an RFC for custom column titles, writing autocomplete and button UI elements, sourcing data from BAS services for "Security Classification" columns and writing formulae to calculate weighted averages for "Position Weight" columns for all asset types, i.e. Fixed Income, Equity, CCY.
-          - Rewrote a fully-tested multifund client-side table/grid data pipeline to improve performance of cross-account worksheets, allowing firms to load 3x the number of accounts and view aggregations across accounts
-          - On call triaging, diagnosing and resolving reported issues, and providing explanantions and support for wider business queries
+          - Individual contributor working in the AIM Blotter Infrastructure team, within a department of 50 engineers globally.
+          - Engaged with <b>international clients</b> in Hong Kong and business users in New York to understand business requirements.
+          - Developed new worksheet columns for {PM} including:<br/>
+            - <b>CCLS i.e. custom classifications of securities</b>. Involved writing an RFC for custom column titles, writing autocomplete and button UI elements, sourcing data from BAS services<br/>
+            - Issuer Weights. Calculated <b>weighted averages</b> and <b>contribution to analytics</b>, aggregated by a custom issuer for all asset types, i.e. Fixed Income, Equity, CCY.
+          - Rewrote a multifund client-side <b>table/grid data pipeline</b> to improve performance of cross-account worksheets, allowing firms to load <b>3x the number of accounts</b> and view aggregations across accounts
+          - Contributed to CATS, a <b>trading system front end</b> used by many Bloomberg Terminal applications including {PM}, {EMSX} and {FXEM}, using bespoke technologies including:<br/>
+            - <b>Datalayer</b>, a data table/grid technology for performing aggregations and transformations on streaming data<br/>
+            - <b>R+</b>, a javascript runtime for running client-side applications on the Bloomberg Terminal<br/>
+            - <b>HSL</b>, a language for evaluating expressions akin to excel formulas<br/>
+            - <b>SSA</b>, a set of APIs to perform server side aggregations on datasets
+          - On call triaging, diagnosing and resolving reported issues, and providing explanantions and support for wider business queries by organising and attending deep dives across multiple timezones. 
+          - Trained in Bloomberg Terminal usage including <b>trading systems</b> <span class="inactive">(PM, MAV)</span>, <b>market research</b> <span class="inactive">(SEC, FA)</span>, <b>fixed income</b> <span class="inactive">(SECF, CRVF, EQF, COMP, YAS)</span>, <b>risk analysis</b> <span class="inactive">(MARS, PORT)</span>, <b>fixed income markets</b> <span class="inactive">(corporate bonds, government bonds, bond pricing, yields, duration)</span> and <b>financial institutions</b> <span class="inactive">(pension funds, mutual funds, hedge funds, investment banks)</span><br/>
           - Member of multiple working groups helping to organise talks, contribute towards coding initiatives such as new APIs and refactors as well as peer review
   - name: <img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
     projects:
       - role: Senior Software Engineer
-        name: Uphold - a digital wallet and global multi-asset trading platform
+        name: Uphold 
+        description: digital wallet and crypto asset trading platform
         date: 5 months <span class="inactive">(Aug '21 - Dec '21)</span>
         detail: 
           - Developed risk assessment services within Uphold's back-office team with features including:<br/> 
@@ -23,7 +35,8 @@ companies:
   - name: <img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
     projects:
       - role: Team Lead
-        name: Cloudmargin - a collateral management platform cloud app
+        name: Cloudmargin
+        description: cloud based collateral management application
         date: 1 year <span class="inactive">(Jul '20 - Jul '21)</span>
         detail:
           - Managed a team of 6 engineers and QAs within CloudMargin, line-managed and mentored all teammates, and reported to VP of Engineering
@@ -36,9 +49,10 @@ companies:
           - Created several initiatives, including an internal RFC Committee within CloudMargin, founded and lead the Developer Community, and contributed towards organising an internal hackathon.
           - Collaborated with the SRE team to create a self-service model for engineering teams to follow, including testing, first use, and integrating the process within external teams to my own.
 
-  - name: <br/><img class="company-logo" id="newsuk" src="assets/news-uk-logo.jpg" alt="NewsUK">
+  - name: <img class="company-logo" id="newsuk" src="assets/news-uk-logo.jpg" alt="NewsUK">
     projects:
-      - name: Wireless - Audio platform for Times Radio
+      - name: Wireless 
+        description: audio platform for Times Radio
         role: Senior Engineer
         date: 1 year <span class="inactive">(Jun '19 - Jul '20)</span>
         detail:
@@ -49,18 +63,22 @@ companies:
           - Created solution proposals addressing scaling and cost, security, operations, architecture, and wrote API and operational documentation including runbooks
           - Represented engineering in high-level roadmap planning meetings with non-technical stakeholders, and subsequently working with developers responsible for implementation
 
-  - name: <br/><img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
+  - name: <img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
     projects:
       - role: Node.js Engineer
         name: eLife Sciences
+        description: Non-profit science publishes for biomedical and life sciences
         date: 1 year <span class="inactive">(Jun '18 - Apr '19)</span>
         detail:
           - Provided Agile coaching, mentoring of software engineers, and planning and technical direction for clients.
           - Contributed to Pubsweet, an open source framework for building state-of-the-art publishing platforms, attended several meetups with international contributors while representing eLife Sciences.
           - Developed onboarding pages, reviewing conversion metrics iteratively to form requirements which directly lead to increased subscriptions. 
 
+  - name: <img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
+    projects:
       - role: Node.js Engineer
-        name: NewsUK
+        name: thetimes.co.uk
+        description: Subscription based british news website
         date: 1 year 3 months <span class="inactive">(Apr '17 - Jun '18)</span>
         detail:
           - Lead a team developing public facing serverless API for user's saved articles for The Times using TypeScript
@@ -68,10 +86,11 @@ companies:
           - Delivered and showcased UI components, public and private APIs, provisioned cloud infrastructure on AWS including API gateways, database migrations, backups and VPNs, environments for automated load testing, monitoring and logging dashboards.
           - Provided talks for London Node.js Meetup, organised by YLD.
 
-  - name: <br/><br/><img class="company-logo" id="net-a-porter" src="assets/net-a-porter-logo.webp" alt="Net-A-Porter">
+  - name: <img class="company-logo" id="net-a-porter" src="assets/net-a-porter-logo.webp" alt="Net-A-Porter">
     projects:
       - role: Front-End Engineer
-        name: Luxury fashion online retailer 
+        name: theoutnet.com
+        description: Luxury fashion online retailer 
         date: 1 year 6 months <span class="inactive">(Jun '15 - Nov '16)</span>
         detail:
           - Developed product and listing pages for Outnet.com, as single-page apps, optimised for SEO
@@ -79,26 +98,12 @@ companies:
           - Managed delivery and development including integration across the wider organisation.
           - Contributed toward a CMS system for the Outnet.com homepage and campaign pages
 
-  - name: <br/><br/><img class="company-logo" id="bskyb" src="assets/sky-logo.png" alt="BSkyB">
+  - name: <img class="company-logo" id="bskyb" src="assets/sky-logo.png" alt="BSkyB">
     projects:
-      - role: Lead Engineer
-        date: 8 months <span class="inactive">(Apr '14 - Jan '16)</span>
+      - role: Graduate Developer, Associate Developer, Software Developer, Lead Engineer
+        date: 4 years <span class="inactive">(Aug '11 - Jun '15)</span>
         detail: 
-          - Redesigned order tracking journey for customers to track their order, cancellations, upgrades and appointments from concept to production.
-      - role: Software Developer
-        date: 8 months <span class="inactive">(Aug '13 - Apr '14)</span>
-        detail: 
-          - Redesigned online bill section of Sky, focusing on accessibility
-          - Developed web components for the shared style guide used by the department
-          - Helped to develop the iOS and Android Sky MyAccount app
-      - role: Associate Software Developer
-        date: 1 year 7 months <span class="inactive">(Feb '12 - Aug '13)</span>
-        detail: 
-          - Part of the Multi-Channel Services team, I helped develop Java based APIs used by various departments across Sky, using frameworks including Spring, Maven, JUnit, MySQL, SVN
-          - Services provided used async communication using MQ, and synchronous communication using HTTP
-      - role: Graduate Software Developer
-        date: 6 months <span class="inactive">(Aug '11 - Feb '12)</span>
-        detail: 
-          - Accepted into the Sky Software Engineering Academy for graduates, which provided offsite training and qualification routes, rotation across Sky departments, and mentorship.
-          - Helped develop an iPhone and iPad application for MyAccounts team. Allowed users to view their account information and book appointments on their mobile. Introduced Agile and automated testing/building to native iOS developers at Sky.
-          - Developed a browser based dashboard for the Sky iD team. Displayed errors in their services in graphs and tables with server information. Also displayed journey maps for services in tree diagrams, showing which back-end services were down or performing slowly.
+          - redesigned the order tracking journey for customers to track their order, cancellations, upgrades and appointments from concept to production.
+          - online bill section of Sky, focusing on accessibility, developed web components for the shared style guide used by the department and I contributed towards development of the iOS and Android Sky MyAccount app
+          - developed Java based APIs used by various departments across Sky, using frameworks including Spring, Maven, JUnit, MySQL, SVN. Services provided used async communication using MQ, and synchronous communication using HTTP
+          - Accepted into the Sky Software Engineering Academy for graduates, which provided offsite training and qualification routes, rotation across Sky departments, and mentorship.<br/>

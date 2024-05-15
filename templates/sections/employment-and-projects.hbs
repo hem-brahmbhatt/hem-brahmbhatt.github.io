@@ -10,7 +10,10 @@
           {{#each projects}}
             <ul class="skycom-12 project">
               {{#if name}}
-              <li><strong><span class="skycom-3 alpha">Project</span><span class="skycom-9">{{name}}</span></strong></li>
+              <li>
+                <strong><span class="skycom-3 alpha">Project</span></strong>
+                <span class="skycom-9"><strong>{{name}}</strong> - {{description}}</span>
+              </li>
               {{/if}}
               {{#if role}}
               <li><strong><span class="skycom-3 alpha">Role</span><span class="skycom-9">{{role}}</span></strong></li>
@@ -23,7 +26,6 @@
                 <li><strong><span class="skycom-3 alpha">Practices</span><span class="skycom-9">{{practices}}</span></strong></li>
               {{/if}}
             </ul>
-            <p>{{description}}</p>
             <ul class="bullet  skycom-12">
               {{#each detail}} <li>{{this}}</li> {{/each}}
             </ul>
