@@ -12,3 +12,12 @@ body {
   max-width: 700px;
   float: none;
 }
+
+.company:first-child {
+  display: block;
+}
+
+.company {
+  display: inline-block;
+  break-inside: avoid;
+}

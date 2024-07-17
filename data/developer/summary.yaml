@@ -10,7 +10,7 @@ summary:
       - heading: Project Management
         contents: Business Analysis <span class="inactive">(requirement gathering, estimates, delivery roadmapping)</span>, Engineering <span class="inactive">(RFCs and governance, diagrams, runbooks and documentation, developer tooling, technical presentations)</span>, Line Management <span class="inactive">(Agile, recruitment and training, mentoring, reporting)</span>
       - heading: DevOps and Tooling
-        contents: Containerisation <span class="inactive">(docker, Kubernetes)</span>, Configuration and Infrastructure <span class="inactive">(Terraform, Ansible, CloudFormation)</span>, Monitoring <span class="inactive">(NewRelic, DataDog, CloudWatch, Kibana)</span>, Scripting <span class="inactive">(CLIs, Bash, Python, codemods)</span>, Testing and Developer Experience <span class="inactive">(Jest, Cypress, performance testing, contract testing)
+        contents: Containerisation <span class="inactive">(docker, Kubernetes)</span>, Configuration and Infrastructure <span class="inactive">(Terraform, Ansible, CloudFormation)</span>, Monitoring <span class="inactive">(NewRelic, DataDog, CloudWatch, Kibana)</span>, Scripting <span class="inactive">(CLIs, Bash, Python, codemods)</span>, Testing and Developer Experience <span class="inactive">(Jest, ESLint, Cypress, performance testing, contract testing)
       - heading: Networking & Security
         contents: Delivery and Caching <span class="inactive">(CloudFront, Akamai, Redis)</span>, Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways)</span> Authentication and security <span class="inactive">(IAM, OAuth, JWT, certs)</span>, Secret management <span class="inactive">(Vault, SSM)</span>
       - heading: Data housing 
