@@ -14,7 +14,7 @@ companies:
             - <b>SSA</b>, a set of APIs to perform server side aggregations on datasets
           - Engaged with <b>international clients</b> in Hong Kong and business users in New York to understand business requirements.
           - Support responsibilities involving being on-call, triaging, diagnosing and resolving reported issues, and providing explanantions and support for wider business queries by organising and attending deep dives across multiple timezones. 
-          - Rewrote a <b>table/grid pivoting pipeline</b>. Improved performance of cross-account worksheets, allowing firms to load <b>3x the number of accounts</b> and view aggregations across accounts
+          - Rewrote a <b>table/grid pivoting pipeline</b>, improving performance allowing 3x the amount of data to be pivoted and visualised
           - Developed new worksheet columns for {PM} including:<br/>
             - <b>CCLS i.e. custom classifications of securities</b>. Involved writing an RFC for custom column titles, writing autocomplete and button UI elements, sourcing data from BAS services<br/>
             - Issuer Weights. Calculated <b>weighted averages</b> and <b>contribution to analytics</b>, aggregated by a custom issuer for all asset types, i.e. Fixed Income, Equity, CCY.
