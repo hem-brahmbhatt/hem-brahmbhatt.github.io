@@ -1,8 +1,6 @@
 summary:
   - detail: <b>Software Engineer</b> with <b>9</b> years experience developing applications and services for companies including <b>Bloomberg</b>, <b>YLD</b>, <b>The Times</b>, <b>Net-A-Porter</b> and <b>Sky</b>. I have designed and developed financial applications, retail web applications, journalism sites, designed and written backend services, provisioned and managed cloud infrastructure, participated in working groups to champion developer tooling, accessibility, performance and testing methodologies within engineering departments.<p><b>Team lead</b> with <b>2</b> years of experience managing engineering teams for <b>YLD</b> and <b>Sky</b>. Mentored engineers, tempered year long technical roadmaps, and established modern development practices within my teams.  
     list:
-      - heading: Financial Technology
-        contents: Bloomberg Terminal <span class="inactive">(Trading systems, PM, CCLS, AFMT)</span>, Data <span class="inactive">(table/grid, aggregations, financial formulas)</span>, Financial Markets <span class="inactive">(Fixed income, Equity)</span>
       - heading: Server-side
         contents: Languages <span class="inactive">(TypeScript/JavaScript)</span>, API development <span class="inactive">(Node.js, GraphQL, request-response, publish-subscribe, HTTP, gRPC)</span>, Cloud Computing <span class="inactive">(AWS, Kubernetes, serverless)</span>, Distributed Computing <span class="inactive">(queues, event streaming)</span>
       - heading: Client-side
@@ -15,3 +13,5 @@ summary:
         contents: Delivery and Caching <span class="inactive">(CloudFront, Akamai, Redis)</span>, Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways)</span> Authentication and security <span class="inactive">(IAM, OAuth, JWT, certs)</span>, Secret management <span class="inactive">(Vault, SSM)</span>
       - heading: Data housing 
         contents: Databases <span class="inactive">(SQL, Postgres, RDS, MongoDB, Redis)</span>, Data Ops <span class="inactive">(replication, backups, remote access, encryption)</span>
+      - heading: Financial Technology
+        contents: Bloomberg Terminal <span class="inactive">(Trading systems, PM, CCLS, AFMT)</span>, Data <span class="inactive">(table/grid, aggregations, financial formulas)</span>, Financial Markets <span class="inactive">(Fixed income, Equity)</span>
