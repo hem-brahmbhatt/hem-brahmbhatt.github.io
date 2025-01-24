@@ -1,94 +1,72 @@
 companies:
+  - name: <img class="company-logo" id="fresha" src="assets/fresha.png" alt="Fresha">
+    projects:
+      - role: Full Stack Engineer
+        name: Fresha Partners
+        description: "Salon software for appointment scheduling, point-of-sales (POS) and payment processing"
+        tech: Typescript, React, React Hooks, GraphQL, Elixir, Kafka, gRPC
+        date: 4 months <span class="inactive">(Oct '24 - Jan '25)</span>
+        detail: 
+          - Senior front-end leaning developer on the checkout team, responsible for development, collaboration with product and design, backlog grooming, code reviews, exploratory testing, and delivery.
+          - Implemented basket-saving functionality during the checkout process.
+          - Enhanced navigation in the checkout flow for product selection and viewing saved baskets.
+          - Provided support for incidents and app issues.
+
   - name: <img class="company-logo" id="bloomberg" src="assets/bloomberg-logo.png" alt="Bloomberg">
     projects:
       - role: Senior Software Engineer
         name: Bloomberg Terminal
         description: "{PM}, an institutional trading software for managing high frequency real-time positions"
-        tech: Typescript, React, Redux, Grid, Python, Docker, HTML, SQL
+        tech: Typescript, React, Redux, Grid, Docker, SQL
         date: 1 year 8 months <span class="inactive">(Sep '22 - May '24)</span>
         detail: 
-          - Individual contributor working in the AIM Blotter Infrastructure team, within a department of 50 engineers globally.
-          - Contributed to CATS, a <b>trading system front end</b> used by many Bloomberg Terminal applications including {PM}, {EMSX} and {FXEM}, using bespoke technologies including:<br/>
-            - <b>Datalayer</b>, a data table/grid technology for performing aggregations and transformations on streaming data<br/>
-            - <b>HSL</b>, a language for evaluating expressions akin to excel functions<br/>
-            - <b>SSA</b>, a set of APIs to perform server side aggregations on datasets
-          - Engaged with <b>international clients</b> in Hong Kong and business users in New York to understand business requirements.
-          - Support responsibilities involving being on-call, triaging, diagnosing and resolving reported issues, and providing explanantions and support for wider business queries by organising and attending deep dives across multiple timezones. 
-          - Rewrote a <b>table/grid pivoting pipeline</b>, improving performance allowing 3x the amount of data to be pivoted and visualised
-          - Developed new worksheet columns for {PM} including:<br/>
-            - <b>CCLS i.e. custom classifications of securities</b>. Involved writing an RFC for custom column titles, writing autocomplete and button UI elements, sourcing data from BAS services<br/>
-            - Issuer Weights. Calculated <b>weighted averages</b> and <b>contribution to analytics</b>, aggregated by a custom issuer for all asset types, i.e. Fixed Income, Equity, CCY.
-          - Trained in Bloomberg Terminal usage including <b>trading systems</b> <span class="inactive">(PM, MAV)</span>, <b>market research</b> <span class="inactive">(SEC, FA)</span>, <b>fixed income</b> <span class="inactive">(SECF, CRVF, EQF, COMP, YAS)</span>, <b>risk analysis</b> <span class="inactive">(MARS, PORT)</span>, <b>fixed income markets</b> <span class="inactive">(corporate bonds, government bonds, bond pricing, yields, duration)</span> and <b>financial institutions</b> <span class="inactive">(pension funds, mutual funds, hedge funds, investment banks)</span>
-          - Member of multiple working groups helping to organise talks, contribute towards coding initiatives such as new APIs and refactors as well as peer review
-  - name: <img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
-    projects:
-      - role: Senior Backend Engineer
-        name: Uphold 
-        description: digital wallet and crypto asset trading platform
-        tech: Javascript, Node.js, Express, gRPC, Jest 
-        date: 5 months <span class="inactive">(Aug '21 - Dec '21)</span>
-        detail: 
-          - Developed risk assessment APIs within Uphold's back-office team with features including:<br/> 
-            - Fraud & anti-money laundering checks<br/>
-            - Identity verification<br/>
-          - Collaborated with the Principal Architect to design an RFC process for the engineering department.
-  - name: <img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
-    projects:
-      - role: Team Lead
-        name: Cloudmargin
-        description: cloud based collateral management application
-        tech: Javascript, Node.js, React, AWS, SQS, Terraform, Docker, Cypress
-        date: 1 year <span class="inactive">(Jul '20 - Jul '21)</span>
-        detail:
-          - Managed a team of 6 engineers and QAs within CloudMargin, line-managed and mentored all teammates, and reported to VP of Engineering
-          - Hosting high-level roadmap planning and low-level technical discussions, improved commitment vs delivery from 60% to 90%, and acted as advisor to other team leads in lieu of a principal engineer.
-          - Created several solution architecture proposals and worked with engineers and QAs through to delivery<br/>
-            - Rewrite backend APIs and cloud infrastructure, allowing margin calls to scale effectively for an upcoming increase in clients<br/>
-            - UMR regulatory features<br/>
-            - SWIFT payment support<br/>
-            - Manual adjustments to daily margin calls<br/>
-          - Created several initiatives, including an internal RFC Committee within CloudMargin, founded and lead the Developer Community, and contributed towards organising an internal hackathon.
-          - Collaborated with the SRE team to create a self-service model for engineering teams to follow, including testing, first use, and integrating the process within external teams to my own.
+          - Improved a table/grid pivoting pipeline, increasing data performance by 3x.
+          - Collaborated with international clients and business users to gather requirements.
+          - Managed on-call support, issue resolution, and organized deep dives across timezones.
+          - Developed new worksheet columns for PM, including custom classifications and issuer weights.
+          - Trained in Bloomberg Terminal usage across various financial domains.
+          - Contributed to multiple working groups for talks, coding initiatives, and peer reviews.
 
-  - name: <img class="company-logo" id="newsuk" src="assets/news-uk-logo.jpg" alt="NewsUK">
+  - name: <img class="company-logo" id="yld" src="assets/yld-3.jpg" alt="YLD">
     projects:
-      - name: Wireless 
+      - role: Team Lead, Senior Backend Engineer
+        name: Consultant
+        description: Engineer working with clients including Uphold and CloudMargin
+        tech: Node.js, Express, AWS, SQS, gRPC, Terraform, Docker, Cypress
+        date: 1 year 5 months <span class="inactive">(Jul '20 - Jul '21)</span>
+        detail:
+          - Managed a team of 6 engineers and QAs at CloudMargin, providing mentorship and reporting to the VP of Engineering.
+          - Led roadmap planning and technical discussions, increasing commitment vs delivery from 60% to 90%.
+          - Implemented features such as fraud and anti-money laundering checks, identity verification for Uphold wallets, scalable margin call creation, and manual adjustments to daily margin calls.
+          - Established an engineering initiative committee and organized an internal hackathon.
+          - Collaborated with the SRE team to create a self-service infrastructure provisioning model, guiding my team and others in adoption and migration.
+
+  - name: <img class="company-logo" id="timesradio" src="assets/times-radio-5.jpg" alt="Times Radio">
+    projects:
+      - name: NewsUK 
         description: audio platform for Times Radio
         role: Senior Engineer
-        tech: API Development, Node.js, GraphQL, Kubernetes, Docker, AWS, Terraform MongoDB, BlazeMeter
+        tech: Node.js, GraphQL, Terraform, Kubernetes, Docker, AWS, MongoDB, BlazeMeter
         date: 1 year <span class="inactive">(Jun '19 - Jul '20)</span>
         detail:
-          - Senior engineer in a department of 30, responsible for infrastructure, API development and out-of-hours support, for the Wireless Audio Platform
-          - Developed GraphQL microservices, API authentication, contract testing and integration with upstream services and data stores
-          - Lead an initiative to establish SLAs, and wrote automation and alerting tools for our scaling strategy to meet SLOs
-          - Provisioned and migrated kubernetes, wrote infrastructure as code provisioning compute, capacity plans, networking, database, configuration, CDN, CI, monitoring alerting tools and jumpboxes
-          - Created solution proposals addressing scaling and cost, security, operations, architecture, and wrote API and operational documentation including runbooks
-          - Represented engineering in high-level roadmap planning meetings with non-technical stakeholders, and subsequently working with developers responsible for implementation
+          - Served as a senior engineer in a 30-member department, focusing on infrastructure, API development, and out-of-hours support for the Wireless Audio Platform.
+          - Developed GraphQL microservices, implemented API authentication, and conducted contract testing and integration with upstream services.
+          - Led an initiative to establish SLAs and created a performance testing pipeline.
+          - Provisioned and migrated Kubernetes, utilizing infrastructure as code for compute, capacity planning, networking, databases, CDN, CI, monitoring, alerting, and access control.
 
-  - name: <img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
+  - name: <img class="company-logo" id="yld" src="assets/yld-3.jpg" alt="YLD">
     projects:
-      - role: Front-End Engineer
-        name: eLife Sciences
-        description: Non-profit science publishes for biomedical and life sciences
-        tech: Vue.js, AWS, Docker, Figma
-        date: 1 year <span class="inactive">(Jun '18 - Apr '19)</span>
+      - role: Software Engineer
+        name: Consultant
+        description: Engineer working with various clients including The Times, Nexmo and eLife Sciences
+        tech: Node.js, GraphQL, serverless, AWS, React, Vue.js Docker, Figma, Storybook
+        date: 2 year 3 months <span class="inactive">(Apr '17 - Jun '19)</span>
         detail:
-          - Provided Agile coaching, mentoring of software engineers, and planning and technical direction for clients.
-          - Contributed to Pubsweet, an open source framework for building state-of-the-art publishing platforms, attended several meetups with international contributors while representing eLife Sciences.
-          - Developed onboarding pages, reviewing conversion metrics iteratively to form requirements which directly lead to increased subscriptions. 
-
-  - name: <img class="company-logo" id="yld" src="assets/yld-logo.jpg" alt="YLD">
-    projects:
-      - role: Full Stack Engineer
-        name: thetimes.co.uk
-        description: Subscription based british news website
-        tech: Node.js, GraphQL, serverless, AWS, React, react-native, Storybook
-        date: 1 year 3 months <span class="inactive">(Apr '17 - Jun '18)</span>
-        detail:
-          - Lead a team developing public facing serverless API for user's saved articles for The Times using TypeScript
-          - Delivered deeplinking across times.co.uk and native app.
-          - Delivered and showcased UI components, public and private APIs, provisioned cloud infrastructure on AWS including API gateways, database migrations, backups and VPNs, environments for automated load testing, monitoring and logging dashboards.
-          - Provided talks for London Node.js Meetup, organised by YLD.
+          - Led a team to develop a public-facing serverless API for user-saved articles for The Times.
+          - Implemented deep linking for times.co.uk and the native app.
+          - Delivered UI components and public/private APIs, provisioned AWS cloud infrastructure, and set up automated load testing and monitoring dashboards.
+          - Developed onboarding pages for Nexmo, using iterative reviews of conversion metrics to boost subscriptions.
+          - Presented talks on web page performance and web animations at the London Node.js Meetup and contributed to the open-source PubSweet platform.
 
   - name: <img class="company-logo" id="net-a-porter" src="assets/net-a-porter-logo.webp" alt="Net-A-Porter">
     projects:
@@ -99,17 +77,15 @@ companies:
         date: 1 year 6 months <span class="inactive">(Jun '15 - Nov '16)</span>
         detail:
           - Developed product and listing pages for Outnet.com, as single-page apps, optimised for SEO
-          - Created live style guide for Outnet.com, and created a framework for style guide development.
-          - Managed delivery and development including integration across the wider organisation.
+          - Created a design system for Outnet.com
           - Contributed toward a CMS system for the Outnet.com homepage and campaign pages
 
-  - name: <img class="company-logo" id="bskyb" src="assets/sky-logo.png" alt="BSkyB">
+  - name: <img class="company-logo" id="bskyb" src="assets/Sky_Group_logo_2020.svg.webp" alt="BSkyB">
     projects:
       - role: Graduate Developer, Associate Developer, Software Developer, Lead Engineer
         date: 4 years <span class="inactive">(Aug '11 - Jun '15)</span>
         tech: Javascript (React, Ember), Ruby (Rails, Sinatra), Java (Spring), Database (SQL, Cassandra, Mongo)
         detail: 
-          - Redesigned the order tracking journey for customers to track their order, cancellations, upgrades and appointments from concept to production.
-          - Online bill section of Sky, focusing on accessibility, developed web components for the shared style guide used by the department and I contributed towards development of the iOS and Android Sky MyAccount app
-          - Developed Java based APIs used by various departments across Sky, using frameworks including Spring, Maven, JUnit, MySQL, SVN. Services provided used async communication using MQ, and synchronous communication using HTTP
-          - Accepted into the Sky Software Engineering Academy for graduates, which provided offsite training and qualification routes, rotation across Sky departments, and mentorship.<br/>
+          - Redesigned the customer order tracking journey and improved the online bill section for accessibility. Developed web components for the shared style guide and contributed to the Sky MyAccount app for iOS and Android.
+          - Created Java-based APIs for multiple departments using Spring and MySQL.
+          - Joined the Sky Software Engineering Academy for training, departmental rotations, and mentorship.
