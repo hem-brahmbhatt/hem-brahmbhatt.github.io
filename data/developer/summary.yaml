@@ -1,5 +1,5 @@
 summary:
-  - detail: Experienced <b>Software Engineer</b> with a strong background in developing applications and services for <b>Bloomberg</b>, <b>The Times</b>, <b>Net-A-Porter</b>, and <b>Sky</b>. Skilled in financial applications, SPA checkout journeys, backend systems, cloud infrastructure management, and improving DevEx and testing.<p>As a <b>team lead</b> at CloudMargin and Sky, I managed engineering teams, led projects, coordinated releases, created technical roadmaps, and enhanced SDLC processes.
+  - detail: Experienced <b>Software Engineer</b> with a strong background in developing applications and services for <b>Bloomberg</b>, <b>The Times</b>, <b>Net-A-Porter</b>, and <b>Sky</b>. Skilled in financial applications, SPA checkout journeys, backend systems, cloud infrastructure management, and improving DevEx and testing.<p>As a <b>team lead</b> at YLD, I managed engineering teams, led projects, coordinated releases, created technical roadmaps, and enhanced SDLC processes.
     list:
       - heading: Client-side
         contents: TypeScript <span class="inactive">(React, React Hooks, Redux, Jest, react-testing-library)</span>, SPA <span class="inactive">(routing, state management, API integration, UX, CSS, design systems)</span>

@@ -45,7 +45,7 @@ companies:
     projects:
       - name: NewsUK 
         description: audio platform for Times Radio
-        role: Senior Engineer
+        role: Node.js Engineer
         tech: Node.js, GraphQL, Terraform, Kubernetes, Docker, AWS, MongoDB, BlazeMeter
         date: 1 year <span class="inactive">(Jun '19 - Jul '20)</span>
         detail:
@@ -82,9 +82,9 @@ companies:
 
   - name: <img class="company-logo" id="bskyb" src="assets/Sky_Group_logo_2020.svg.webp" alt="BSkyB">
     projects:
-      - role: Graduate Developer, Associate Developer, Software Developer, Lead Engineer
+      - role: Graduate Developer -> Associate Developer -> Software Developer
         date: 4 years <span class="inactive">(Aug '11 - Jun '15)</span>
-        tech: Javascript (React, Ember), Ruby (Rails, Sinatra), Java (Spring), Database (SQL, Cassandra, Mongo)
+        tech: JavaScript <span class="inactive">(jQuery, Ember.js)</span>, Ruby, Java, Spring, SQL, Cassandra, Mongo
         detail: 
           - Redesigned the customer order tracking journey and improved the online bill section for accessibility. Developed web components for the shared style guide and contributed to the Sky MyAccount app for iOS and Android.
           - Created Java-based APIs for multiple departments using Spring and MySQL.
