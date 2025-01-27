@@ -21,15 +21,15 @@ companies:
         date: 1 year 8 months <span class="inactive">(Sep '22 - May '24)</span>
         detail: 
           - Improved a table/grid pivoting pipeline, increasing data performance by 3x.
+          - Developed new worksheet columns for PM, including custom classifications and issuer weights.
           - Collaborated with international clients and business users to gather requirements.
           - Managed on-call support, issue resolution, and organized deep dives across timezones.
-          - Developed new worksheet columns for PM, including custom classifications and issuer weights.
           - Trained in Bloomberg Terminal usage across various financial domains.
           - Contributed to multiple working groups for talks, coding initiatives, and peer reviews.
 
   - name: <img class="company-logo" id="yld" src="assets/yld-3.jpg" alt="YLD">
     projects:
-      - role: Team Lead, Senior Backend Engineer
+      - role: Senior Backend Engineer -> Team Lead
         name: Consultant
         description: Engineer working with clients including Uphold and CloudMargin
         tech: Node.js, Express, AWS, SQS, gRPC, Terraform, Docker, Cypress
