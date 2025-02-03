@@ -2,7 +2,7 @@ summary:
   - detail: Experienced <b>Software Engineer</b> with a strong background in developing applications and services for <b>Bloomberg</b>, <b>The Times</b>, <b>Net-A-Porter</b>, and <b>Sky</b>. Skilled in financial applications, SPA checkout journeys, backend systems, cloud infrastructure management, and improving DevEx and testing.<p>As a <b>team lead</b> at YLD, I managed engineering teams, led projects, coordinated releases, created technical roadmaps, and enhanced SDLC processes.
     list:
       - heading: Client-side
-        contents: TypeScript <span class="inactive">(React, React Hooks, Redux)</span>, SPA <span class="inactive">(routing, state management, API integration, UX, CSS, design systems)</span>, Testing (Playwright, Cypress, Storybook, Jest, react-testing-library)
+        contents: TypeScript <span class="inactive">(React, React Hooks, Redux)</span>, SPA <span class="inactive">(routing, state management, API integration, UX, CSS, design systems)</span>, Testing <span class="inactive">(Playwright, Cypress, Storybook, Jest, react-testing-library)</span>
       - heading: Server-side
         contents: Primary Language <span class="inactive">(TypeScript)</span>, Secondary Languages <span class="inactive">(Elixir, Java, Python, Ruby)</span>, API development <span class="inactive">(Node.js, GraphQL, REST, gRPC, kafka)</span>, Cloud Computing <span class="inactive">(AWS, Kubernetes, serverless)</span>
       - heading: Delivery
