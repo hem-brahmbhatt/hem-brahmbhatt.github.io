@@ -11,5 +11,5 @@ summary:
         contents: Containerisation <span class="inactive">(docker, Kubernetes)</span>, Infrastructure <span class="inactive">(Terraform)</span>, Monitoring <span class="inactive">(DataDog, Grafana, NewRelic)</span>, Scripting <span class="inactive">(CLIs, Bash)</span>, Testing <span class="inactive">(Unit, integration, mocking, E2E, performance, synthetic)
       - heading: Networking & Security
         contents: Caching <span class="inactive">(CloudFront, Redis, cache strategies)</span>, Networking <span class="inactive">(VPCs, routing & DNS, ingress/egress, gateways)</span> Authentication and security <span class="inactive">(IAM, OAuth, JWT, certs, secret management)</span>
-      - heading: Date Storage 
+      - heading: Data Storage 
         contents: Databases <span class="inactive">(SQL, Postgres, RDS, MongoDB, Redis)</span>, Data Ops <span class="inactive">(replication, backups, remote access, encryption)</span>
