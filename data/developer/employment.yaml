@@ -6,7 +6,7 @@ companies:
         description: "Salon software for appointment scheduling, point-of-sales (POS) and payment processing"
         tech: Typescript, React, React Hooks, GraphQL, Elixir, Kafka, gRPC
         date: 4 months <span class="inactive">(Oct '24 - Jan '25)</span>
-        detail: 
+        detail:
           - Senior front-end leaning developer on the checkout team, responsible for development, collaboration with product and design, backlog grooming, code reviews, exploratory testing, and delivery.
           - Implemented basket-saving functionality during the checkout process.
           - Enhanced navigation in the checkout flow for product selection and viewing saved baskets.
@@ -17,25 +17,25 @@ companies:
       - role: Senior Software Engineer
         name: Bloomberg Terminal
         description: "{PM}, an institutional trading software for managing high frequency real-time positions"
-        tech: Typescript, React, Redux, Grid, Docker, SQL
+        tech: Typescript, React, Redux, Grid, Docker, SQL, Python
         date: 1 year 8 months <span class="inactive">(Sep '22 - May '24)</span>
-        detail: 
-          - Improved a table/grid pivoting pipeline, increasing data performance by 3x.
-          - Developed new worksheet columns for PM, including custom classifications and issuer weights.
-          - Collaborated with international clients and business users to gather requirements.
+        detail:
+          - Improved data pipelines for spreadsheets, increasing data performance by 3x.
+          - Migrated a trading system UI to use React and Redux.
+          - Created new column data, including custom classifications and issuer weights.
+          - Worked with product owners to gather requirements from international clients.
           - Managed on-call support, issue resolution, and organized deep dives across timezones.
-          - Trained in Bloomberg Terminal usage across various financial domains.
-          - Contributed to multiple working groups for talks, coding initiatives, and peer reviews.
+          - Trained in Bloomberg Terminal usage for fixed income.
 
   - name: <img class="company-logo" id="yld" src="assets/yld-3.jpg" alt="YLD">
     projects:
       - role: Senior Backend Engineer -> Team Lead
         name: Consultant
         description: Engineer working with clients including Uphold and CloudMargin
-        tech: Node.js, Express, AWS, SQS, gRPC, Terraform, Docker, Cypress
+        tech: Node.js, Express, AWS, SQS, gRPC, Terraform, Docker
         date: 1 year 5 months <span class="inactive">(Jul '20 - Jul '21)</span>
         detail:
-          - Managed a team of 6 engineers and QAs at CloudMargin, providing mentorship and reporting to the VP of Engineering.
+          - Team lead of the payments team at CloudMargin, providing mentorship and reporting to the VP of Engineering.
           - Led roadmap planning and technical discussions, increasing commitment vs delivery from 60% to 90%.
           - Implemented features such as fraud and anti-money laundering checks, identity verification for Uphold wallets, scalable margin call creation, and manual adjustments to daily margin calls.
           - Established an engineering initiative committee and organized an internal hackathon.
@@ -43,10 +43,10 @@ companies:
 
   - name: <img class="company-logo" id="timesradio" src="assets/times-radio-5.jpg" alt="Times Radio">
     projects:
-      - name: NewsUK 
+      - name: NewsUK
         description: audio platform for Times Radio
         role: Node.js Engineer
-        tech: Node.js, GraphQL, Terraform, Kubernetes, Docker, AWS, MongoDB, BlazeMeter
+        tech: Node.js, GraphQL, Terraform, Kubernetes, Docker, AWS, MongoDB, Python
         date: 1 year <span class="inactive">(Jun '19 - Jul '20)</span>
         detail:
           - Served as a senior engineer in a 30-member department, focusing on infrastructure, API development, and out-of-hours support for the Wireless Audio Platform.
@@ -59,7 +59,7 @@ companies:
       - role: Software Engineer
         name: Consultant
         description: Engineer working with various clients including The Times, Nexmo and eLife Sciences
-        tech: Node.js, GraphQL, serverless, AWS, React, Vue.js Docker, Figma, Storybook
+        tech: Node.js, Python, GraphQL, serverless, AWS, React, Vue.js, Docker,
         date: 2 year 3 months <span class="inactive">(Apr '17 - Jun '19)</span>
         detail:
           - Led a team to develop a public-facing serverless API for user-saved articles for The Times.
@@ -85,7 +85,7 @@ companies:
       - role: Graduate Developer -> Associate Developer -> Software Developer
         date: 4 years <span class="inactive">(Aug '11 - Jun '15)</span>
         tech: JavaScript <span class="inactive">(jQuery, Ember.js)</span>, Ruby, Java, Spring, SQL, Cassandra, Mongo
-        detail: 
+        detail:
           - Redesigned the customer order tracking journey and improved the online bill section for accessibility. Developed web components for the shared style guide and contributed to the Sky MyAccount app for iOS and Android.
           - Created Java-based APIs for multiple departments using Spring and MySQL.
           - Joined the Sky Software Engineering Academy for training, departmental rotations, and mentorship.
