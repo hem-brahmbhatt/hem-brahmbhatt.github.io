@@ -21,7 +21,7 @@ companies:
         date: 1 year 8 months <span class="inactive">(Sep '22 - May '24)</span>
         detail:
           - Improved data pipelines for spreadsheets, increasing data performance by 3x.
-          - Migrated a trading system UI to use React and Redux.
+          - Migrated a trading system UI to use React and Redux, including tables and charts.
           - Created new column data, including custom classifications and issuer weights.
           - Worked with product owners to gather requirements from international clients.
           - Managed on-call support, issue resolution, and organized deep dives across timezones.
